@@ -1,0 +1,341 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+/* Animations */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  overflow: hidden;
+}
+
+.login-layout {
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.glass-login-container {
+  position: absolute;
+  right: 8%;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+  max-width: 540px;
+  z-index: 10;
+  display: flex;
+  justify-content: center;
+}
+
+@media (max-width: 768px) {
+  .glass-login-container {
+    max-width: 380px;
+    padding: 0 16px;
+    box-sizing: border-box;
+  }
+}
+
+/* Glassmorphism Card */
+.dark-glass-card {
+  width: 100%;
+  background: rgba(0, 0, 0, 0.85); /* Black Glassy */
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  border-radius: 28px;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  padding: 56px;
+  box-sizing: border-box;
+  box-shadow: 0 30px 80px rgba(0, 0, 0, 0.5);
+  display: flex;
+  flex-direction: column;
+  animation: fadeInUp 0.7s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  color: #ffffff;
+}
+
+@media (max-width: 768px) {
+  .dark-glass-card {
+    padding: 32px 24px;
+  }
+}
+
+/* Header & Logo */
+.login-card-header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.logo-img {
+  display: block;
+  width: 100px;
+  height: auto;
+  margin: 0 auto 24px auto;
+  object-fit: contain;
+  animation: fadeIn 0.9s ease-in forwards;
+  /* Make the logo white for dark theme if needed */
+  /* filter: brightness(0) invert(1); */
+}
+
+.login-card-header h2 {
+  margin: 0 0 12px 0;
+  font-family: 'Inter', sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  color: #ffffff;
+  letter-spacing: -0.5px;
+}
+
+.login-card-header p {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 400;
+  color: #a0a0a0;
+}
+
+/* Form and Inputs */
+.login-form {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.field-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.field-label {
+  font-size: 14px;
+  font-weight: 600;
+  color: #e0e0e0;
+  text-align: left;
+}
+
+.input-group {
+  position: relative;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.input-icon {
+  position: absolute;
+  left: 18px;
+  color: #888;
+  display: flex;
+}
+
+.input-icon svg {
+  width: 22px;
+  height: 22px;
+}
+
+.input-group input {
+  width: 100%;
+  height: 60px;
+  background: rgba(255,255,255,0.05);
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 14px;
+  padding: 0 18px 0 52px;
+  font-size: 16px;
+  color: #ffffff;
+  font-family: inherit;
+  transition: all 0.25s ease;
+  box-sizing: border-box;
+}
+
+.input-group input::placeholder {
+  color: #666;
+  font-weight: 400;
+}
+
+.input-group input:focus {
+  outline: none;
+  border-color: #d38c6d;
+  background: rgba(255,255,255,0.1);
+}
+
+/* Icon Buttons (Eye) */
+.eye-btn {
+  position: absolute;
+  right: 18px;
+  background: none;
+  border: none;
+  color: #888;
+  cursor: pointer;
+  display: flex;
+  padding: 0;
+  transition: color 0.2s;
+}
+
+.eye-btn svg {
+  width: 22px;
+  height: 22px;
+}
+
+.eye-btn:hover {
+  color: #e0e0e0;
+}
+
+/* Remember Me & Options */
+.form-options {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 2px;
+  margin-bottom: 10px;
+}
+
+.checkbox-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+  color: #e0e0e0;
+  font-weight: 500;
+  font-size: 14px;
+  position: relative;
+  user-select: none;
+}
+
+.checkbox-container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.checkmark {
+  width: 20px;
+  height: 20px;
+  background: rgba(255,255,255,0.1);
+  border: 1px solid rgba(255,255,255,0.2);
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}
+
+.checkmark svg {
+  display: none;
+  width: 14px;
+  height: 14px;
+  color: white;
+}
+
+.checkbox-container input:checked+.checkmark {
+  background: #d38c6d;
+  border-color: #d38c6d;
+}
+
+.checkbox-container input:checked+.checkmark svg {
+  display: block;
+}
+
+.forgot-link {
+  color: #d38c6d;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 14px;
+  transition: color 0.2s;
+}
+
+.forgot-link:hover {
+  text-decoration: underline;
+}
+
+/* Login Button */
+.login-btn {
+  width: 100%;
+  height: 58px;
+  /* Wood glassy finish */
+  background: linear-gradient(135deg, rgba(160, 82, 45, 0.7) 0%, rgba(101, 67, 33, 0.85) 100%);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  color: #FFFFFF;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 14px;
+  font-size: 18px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  box-shadow: inset 0 1px 1px rgba(255, 255, 255, 0.3), 0 8px 20px rgba(101, 67, 33, 0.4);
+  position: relative;
+}
+
+.login-arrow-icon {
+  position: absolute;
+  right: 20px;
+}
+
+.login-btn:hover {
+  opacity: 0.95;
+  transform: translateY(-2px);
+  background: linear-gradient(135deg, rgba(176, 92, 53, 0.8) 0%, rgba(121, 80, 40, 0.9) 100%);
+  box-shadow: inset 0 1px 1px rgba(255, 255, 255, 0.4), 0 12px 24px rgba(101, 67, 33, 0.5);
+}
+
+.login-btn:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+  transform: none;
+}
+
+/* Footer */
+.card-footer {
+  margin-top: 40px;
+  text-align: center;
+  font-size: 15px;
+  color: #888;
+}
+
+.contact-link {
+  color: #d38c6d;
+  font-weight: 600;
+  text-decoration: none;
+  cursor: pointer;
+  transition: color 0.2s;
+}
+
+.contact-link:hover {
+  text-decoration: underline;
+}
+
+/* Error Alert */
+.error-alert {
+  background: rgba(239, 68, 68, 0.1);
+  color: #EF4444;
+  padding: 14px;
+  border-radius: 12px;
+  font-size: 14px;
+  margin-bottom: 24px;
+  text-align: center;
+  font-weight: 500;
+  border: 1px solid rgba(239, 68, 68, 0.2);
+}

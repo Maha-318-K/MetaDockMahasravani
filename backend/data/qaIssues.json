@@ -1,0 +1,1187 @@
+[
+  {
+    "id": "1783147063960",
+    "issueId": "QA-2025-00152",
+    "project": "",
+    "module": "General",
+    "pageName": "General",
+    "issueTitle": "in the production issues page add this tyep of issue in tabl...",
+    "type": "Functional",
+    "severity": "Medium",
+    "priority": "P3",
+    "status": "Open",
+    "assignedTo": "",
+    "raisedBy": "Admin",
+    "raisedDate": "04 Jul 2026",
+    "attachmentsCount": 1,
+    "issueDetails": "in the production issues page add this tyep of issue in table ",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "Screenshot (68).png",
+        "url": "/uploads/files-1783147063840-361543748.png"
+      }
+    ],
+    "comments": [],
+    "history": [
+      {
+        "action": "Created",
+        "by": "Admin",
+        "date": "2026-07-04T06:37:43.960Z"
+      }
+    ],
+    "resolvedDate": ""
+  },
+  {
+    "id": "1783147061914",
+    "issueId": "QA-2025-00151",
+    "project": "",
+    "module": "Login",
+    "pageName": "Login Page",
+    "issueTitle": "change login page background image ",
+    "type": "Functional",
+    "severity": "Medium",
+    "priority": "P3",
+    "status": "Open",
+    "assignedTo": "",
+    "raisedBy": "Admin",
+    "raisedDate": "04 Jul 2026",
+    "attachmentsCount": 1,
+    "issueDetails": "change login page background image ",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "Screenshot (67).png",
+        "url": "/uploads/files-1783147061797-715915241.png"
+      }
+    ],
+    "comments": [],
+    "history": [
+      {
+        "action": "Created",
+        "by": "Admin",
+        "date": "2026-07-04T06:37:41.914Z"
+      }
+    ],
+    "resolvedDate": ""
+  },
+  {
+    "id": "1783146842100",
+    "issueId": "QA-2025-00150",
+    "project": "",
+    "module": "General",
+    "pageName": "General",
+    "issueTitle": "madi project name ",
+    "type": "Functional",
+    "severity": "Medium",
+    "priority": "P3",
+    "status": "Open",
+    "assignedTo": "",
+    "raisedBy": "Admin",
+    "raisedDate": "04 Jul 2026",
+    "attachmentsCount": 1,
+    "issueDetails": "madi project name ",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "Screenshot 2026-05-31 111309.png",
+        "url": "/uploads/files-1783146841949-320763799.png"
+      }
+    ],
+    "comments": [],
+    "history": [
+      {
+        "action": "Created",
+        "by": "Admin",
+        "date": "2026-07-04T06:34:02.100Z"
+      }
+    ],
+    "resolvedDate": ""
+  },
+  {
+    "id": "1783146840499",
+    "issueId": "QA-2025-00149",
+    "project": "",
+    "module": "General",
+    "pageName": "General",
+    "issueTitle": "data base connection issue production issues page",
+    "type": "Functional",
+    "severity": "Medium",
+    "priority": "P3",
+    "status": "Open",
+    "assignedTo": "",
+    "raisedBy": "Admin",
+    "raisedDate": "04 Jul 2026",
+    "attachmentsCount": 1,
+    "issueDetails": "data base connection issue production issues page",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "Screenshot (50).png",
+        "url": "/uploads/files-1783146840450-454143212.png"
+      }
+    ],
+    "comments": [],
+    "history": [
+      {
+        "action": "Created",
+        "by": "Admin",
+        "date": "2026-07-04T06:34:00.499Z"
+      }
+    ],
+    "resolvedDate": ""
+  },
+  {
+    "id": "1783146839063",
+    "issueId": "QA-2025-00148",
+    "project": "",
+    "module": "General",
+    "pageName": "General",
+    "issueTitle": "db coorect verifies",
+    "type": "Functional",
+    "severity": "Medium",
+    "priority": "P3",
+    "status": "Open",
+    "assignedTo": "",
+    "raisedBy": "Admin",
+    "raisedDate": "04 Jul 2026",
+    "attachmentsCount": 1,
+    "issueDetails": "db coorect verifies",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "Screenshot (48).png",
+        "url": "/uploads/files-1783146839016-886723500.png"
+      }
+    ],
+    "comments": [],
+    "history": [
+      {
+        "action": "Created",
+        "by": "Admin",
+        "date": "2026-07-04T06:33:59.063Z"
+      }
+    ],
+    "resolvedDate": ""
+  },
+  {
+    "id": "1783146837343",
+    "issueId": "QA-2025-00147",
+    "project": "",
+    "module": "General",
+    "pageName": "General",
+    "issueTitle": "mahanandasai profile page",
+    "type": "Functional",
+    "severity": "Medium",
+    "priority": "P3",
+    "status": "Open",
+    "assignedTo": "",
+    "raisedBy": "Admin",
+    "raisedDate": "04 Jul 2026",
+    "attachmentsCount": 1,
+    "issueDetails": "mahanandasai profile page",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "Screenshot (53).png",
+        "url": "/uploads/files-1783146837293-968005119.png"
+      }
+    ],
+    "comments": [],
+    "history": [
+      {
+        "action": "Created",
+        "by": "Admin",
+        "date": "2026-07-04T06:33:57.343Z"
+      }
+    ],
+    "resolvedDate": ""
+  },
+  {
+    "id": "1783146657338",
+    "issueId": "QA-2025-00146",
+    "project": "",
+    "module": "General",
+    "pageName": "General",
+    "issueTitle": "change colour ",
+    "type": "Functional",
+    "severity": "Medium",
+    "priority": "P3",
+    "status": "Open",
+    "assignedTo": "",
+    "raisedBy": "Admin",
+    "raisedDate": "04 Jul 2026",
+    "attachmentsCount": 1,
+    "issueDetails": "change colour ",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "ChatGPT Image Jun 28, 2026, 10_13_43 AM.png",
+        "url": "/uploads/files-1783146657281-763475684.png"
+      }
+    ],
+    "comments": [],
+    "history": [
+      {
+        "action": "Created",
+        "by": "Admin",
+        "date": "2026-07-04T06:30:57.338Z"
+      }
+    ],
+    "resolvedDate": ""
+  },
+  {
+    "id": "1783146657248",
+    "issueId": "QA-2025-00145",
+    "project": "",
+    "module": "General",
+    "pageName": "General",
+    "issueTitle": "change logo",
+    "type": "Functional",
+    "severity": "Medium",
+    "priority": "P3",
+    "status": "Open",
+    "assignedTo": "",
+    "raisedBy": "Admin",
+    "raisedDate": "04 Jul 2026",
+    "attachmentsCount": 1,
+    "issueDetails": "change logo",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "ChatGPT Image Jun 28, 2026, 10_12_19 AM.png",
+        "url": "/uploads/files-1783146657188-282391199.png"
+      }
+    ],
+    "comments": [],
+    "history": [
+      {
+        "action": "Created",
+        "by": "Admin",
+        "date": "2026-07-04T06:30:57.248Z"
+      }
+    ],
+    "resolvedDate": ""
+  },
+  {
+    "id": "1783146459033",
+    "issueId": "QA-2025-00144",
+    "project": "",
+    "module": "Login",
+    "pageName": "Login Page",
+    "issueTitle": "login page issue is add login card",
+    "type": "Functional",
+    "severity": "Medium",
+    "priority": "P3",
+    "status": "Open",
+    "assignedTo": "",
+    "raisedBy": "Admin",
+    "raisedDate": "04 Jul 2026",
+    "attachmentsCount": 1,
+    "issueDetails": "login page issue is add login card",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "ChatGPT Image Jun 28, 2026, 10_12_19 AM.png",
+        "url": "/uploads/files-1783146458992-688245231.png"
+      }
+    ],
+    "comments": [],
+    "history": [
+      {
+        "action": "Created",
+        "by": "Admin",
+        "date": "2026-07-04T06:27:39.033Z"
+      }
+    ],
+    "resolvedDate": ""
+  },
+  {
+    "id": "1783146458517",
+    "issueId": "QA-2025-00143",
+    "project": "",
+    "module": "Login",
+    "pageName": "Login Page",
+    "issueTitle": "login page issue is add login card",
+    "type": "Functional",
+    "severity": "Medium",
+    "priority": "P3",
+    "status": "Open",
+    "assignedTo": "",
+    "raisedBy": "Admin",
+    "raisedDate": "04 Jul 2026",
+    "attachmentsCount": 1,
+    "issueDetails": "login page issue is add login card",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "ChatGPT Image Jun 28, 2026, 10_12_19 AM.png",
+        "url": "/uploads/files-1783146458452-916765891.png"
+      }
+    ],
+    "comments": [],
+    "history": [
+      {
+        "action": "Created",
+        "by": "Admin",
+        "date": "2026-07-04T06:27:38.517Z"
+      }
+    ],
+    "resolvedDate": ""
+  },
+  {
+    "id": "1783146458216",
+    "issueId": "QA-2025-00142",
+    "project": "",
+    "module": "General",
+    "pageName": "General",
+    "issueTitle": "logo use this logo",
+    "type": "Functional",
+    "severity": "Medium",
+    "priority": "P3",
+    "status": "Open",
+    "assignedTo": "",
+    "raisedBy": "Admin",
+    "raisedDate": "04 Jul 2026",
+    "attachmentsCount": 1,
+    "issueDetails": "logo use this logo",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "ChatGPT Image Jun 28, 2026, 08_55_26 AM.png",
+        "url": "/uploads/files-1783146458185-161218649.png"
+      }
+    ],
+    "comments": [],
+    "history": [
+      {
+        "action": "Created",
+        "by": "Admin",
+        "date": "2026-07-04T06:27:38.216Z"
+      }
+    ],
+    "resolvedDate": ""
+  },
+  {
+    "id": "1783146457753",
+    "issueId": "QA-2025-00141",
+    "project": "",
+    "module": "General",
+    "pageName": "General",
+    "issueTitle": "colour use this colour for application dashbaord",
+    "type": "Functional",
+    "severity": "Medium",
+    "priority": "P3",
+    "status": "Open",
+    "assignedTo": "",
+    "raisedBy": "Admin",
+    "raisedDate": "04 Jul 2026",
+    "attachmentsCount": 1,
+    "issueDetails": "colour use this colour for application dashbaord",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "ChatGPT Image Jun 28, 2026, 10_13_43 AM.png",
+        "url": "/uploads/files-1783146457700-425760300.png"
+      }
+    ],
+    "comments": [],
+    "history": [
+      {
+        "action": "Created",
+        "by": "Admin",
+        "date": "2026-07-04T06:27:37.753Z"
+      }
+    ],
+    "resolvedDate": ""
+  },
+  {
+    "id": "1783146457053",
+    "issueId": "QA-2025-00140",
+    "project": "",
+    "module": "General",
+    "pageName": "General",
+    "issueTitle": "logo use this logo",
+    "type": "Functional",
+    "severity": "Medium",
+    "priority": "P3",
+    "status": "Open",
+    "assignedTo": "",
+    "raisedBy": "Admin",
+    "raisedDate": "04 Jul 2026",
+    "attachmentsCount": 1,
+    "issueDetails": "logo use this logo",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "ChatGPT Image Jun 28, 2026, 08_55_26 AM.png",
+        "url": "/uploads/files-1783146456972-285917493.png"
+      }
+    ],
+    "comments": [],
+    "history": [
+      {
+        "action": "Created",
+        "by": "Admin",
+        "date": "2026-07-04T06:27:37.053Z"
+      }
+    ],
+    "resolvedDate": ""
+  },
+  {
+    "id": "1783146455410",
+    "issueId": "QA-2025-00139",
+    "project": "",
+    "module": "General",
+    "pageName": "General",
+    "issueTitle": "colour use this colour for application dashbaord",
+    "type": "Functional",
+    "severity": "Medium",
+    "priority": "P3",
+    "status": "Open",
+    "assignedTo": "",
+    "raisedBy": "Admin",
+    "raisedDate": "04 Jul 2026",
+    "attachmentsCount": 1,
+    "issueDetails": "colour use this colour for application dashbaord",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "ChatGPT Image Jun 28, 2026, 10_13_43 AM.png",
+        "url": "/uploads/files-1783146455376-392803799.png"
+      }
+    ],
+    "comments": [],
+    "history": [
+      {
+        "action": "Created",
+        "by": "Admin",
+        "date": "2026-07-04T06:27:35.410Z"
+      }
+    ],
+    "resolvedDate": ""
+  },
+  {
+    "id": "1780813585255",
+    "issueId": "QA-2025-00138",
+    "project": "",
+    "module": "filed",
+    "pageName": "ssss",
+    "issueTitle": "failed",
+    "type": "Functional",
+    "severity": "Low",
+    "priority": "P3",
+    "status": "In Progress",
+    "assignedTo": "Admin",
+    "raisedBy": "Admin",
+    "raisedDate": "07 Jun 2026",
+    "attachmentsCount": 0,
+    "issueDetails": "test afc project",
+    "attachments": [],
+    "comments": [],
+    "history": [
+      {
+        "action": "Created",
+        "by": "Admin",
+        "date": "2026-06-07T06:26:25.255Z"
+      },
+      {
+        "action": "Severity changed from Medium to High",
+        "by": "Admin",
+        "date": "2026-07-03T17:57:39.668Z"
+      },
+      {
+        "action": "Severity changed from High to Low",
+        "by": "Admin",
+        "date": "2026-07-03T17:57:42.666Z"
+      },
+      {
+        "action": "Status changed from Open to In Progress",
+        "by": "Admin",
+        "date": "2026-07-03T17:57:46.699Z"
+      },
+      {
+        "action": "Resolved Date changed from None to 2026-07-11",
+        "by": "Admin",
+        "date": "2026-07-04T05:49:27.966Z"
+      },
+      {
+        "action": "Assigned to changed from Unassigned to Admin",
+        "by": "Admin",
+        "date": "2026-07-04T05:58:26.988Z"
+      }
+    ],
+    "resolvedDate": "2026-07-11"
+  },
+  {
+    "id": "1780773463403",
+    "issueId": "QA-2025-00137",
+    "project": "",
+    "module": "General",
+    "pageName": "General",
+    "issueTitle": "group changes",
+    "type": "Functional",
+    "severity": "Medium",
+    "priority": "P3",
+    "status": "Open",
+    "assignedTo": "Admin",
+    "raisedBy": "Current User",
+    "raisedDate": "07 Jun 2026",
+    "attachmentsCount": 0,
+    "issueDetails": "group changes",
+    "attachments": [],
+    "comments": [],
+    "history": [
+      {
+        "action": "Created",
+        "by": "Current User",
+        "date": "2026-06-06T19:17:43.403Z"
+      },
+      {
+        "action": "Assigned to changed from Unassigned to Ravi Kumar",
+        "by": "Admin",
+        "date": "2026-06-07T05:48:32.925Z"
+      },
+      {
+        "action": "Resolved Date changed from None to 2026-07-09",
+        "by": "Admin",
+        "date": "2026-07-04T05:56:51.839Z"
+      },
+      {
+        "action": "Assigned to changed from Ravi Kumar to Admin",
+        "by": "Admin",
+        "date": "2026-07-04T05:58:30.269Z"
+      }
+    ],
+    "resolvedDate": "2026-07-09"
+  },
+  {
+    "id": "1780773419143",
+    "issueId": "QA-2025-00136",
+    "project": "",
+    "module": "General",
+    "pageName": "General",
+    "issueTitle": "these are details of shravani anme logo check that",
+    "type": "Functional",
+    "severity": "Medium",
+    "priority": "P3",
+    "status": "Open",
+    "assignedTo": "Priya Nair",
+    "raisedBy": "Current User",
+    "raisedDate": "07 Jun 2026",
+    "attachmentsCount": 1,
+    "issueDetails": "these are details of shravani anme logo check that",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "image.png",
+        "url": "/uploads/files-1780773419107-977690206.png"
+      }
+    ],
+    "comments": [],
+    "history": [
+      {
+        "action": "Created",
+        "by": "Current User",
+        "date": "2026-06-06T19:16:59.143Z"
+      },
+      {
+        "action": "Assigned to changed from Unassigned to Priya Nair",
+        "by": "Admin",
+        "date": "2026-06-07T05:48:35.239Z"
+      }
+    ],
+    "resolvedDate": ""
+  },
+  {
+    "id": "1780773293332",
+    "issueId": "QA-2025-00135",
+    "project": "",
+    "module": "General",
+    "pageName": "General",
+    "issueTitle": "hai this is mahananda sai tester",
+    "type": "Functional",
+    "severity": "Medium",
+    "priority": "P3",
+    "status": "Open",
+    "assignedTo": "Ravi Kumar",
+    "raisedBy": "Current User",
+    "raisedDate": "07 Jun 2026",
+    "attachmentsCount": 0,
+    "issueDetails": "hai this is mahananda sai tester\nsravani senior tester ",
+    "attachments": [],
+    "comments": [],
+    "history": [
+      {
+        "action": "Created",
+        "by": "Current User",
+        "date": "2026-06-06T19:14:53.333Z"
+      },
+      {
+        "action": "Assigned to changed from Unassigned to Ravi Kumar",
+        "by": "Admin",
+        "date": "2026-06-07T05:48:37.571Z"
+      }
+    ],
+    "resolvedDate": ""
+  },
+  {
+    "id": "1780772861808",
+    "issueId": "QA-2025-00134",
+    "project": "",
+    "module": "General",
+    "pageName": "General",
+    "issueTitle": "hai new issue found on logo change logo and when clcik on go...",
+    "type": "Functional",
+    "severity": "Medium",
+    "priority": "P3",
+    "status": "Open",
+    "assignedTo": "Anjali Mehta",
+    "raisedBy": "Current User",
+    "raisedDate": "07 Jun 2026",
+    "attachmentsCount": 1,
+    "issueDetails": "hai new issue found on logo change logo and when clcik on got o home page",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "image.png",
+        "url": "/uploads/files-1780772861778-421505399.png"
+      }
+    ],
+    "comments": [],
+    "history": [
+      {
+        "action": "Created",
+        "by": "Current User",
+        "date": "2026-06-06T19:07:41.808Z"
+      },
+      {
+        "action": "Assigned to changed from Unassigned to Anjali Mehta",
+        "by": "Admin",
+        "date": "2026-06-07T05:48:40.460Z"
+      }
+    ],
+    "resolvedDate": ""
+  },
+  {
+    "id": "1780771707621",
+    "issueId": "QA-2025-00133",
+    "project": "",
+    "module": "General",
+    "pageName": "General",
+    "issueTitle": "7",
+    "type": "Functional",
+    "severity": "Medium",
+    "priority": "P3",
+    "status": "Open",
+    "assignedTo": "Ravi Kumar",
+    "raisedBy": "Current User",
+    "raisedDate": "07 Jun 2026",
+    "attachmentsCount": 1,
+    "issueDetails": "7",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "image.png",
+        "url": "/uploads/files-1780771707605-854106698.png"
+      }
+    ],
+    "comments": [],
+    "history": [
+      {
+        "action": "Created",
+        "by": "Current User",
+        "date": "2026-06-06T18:48:27.621Z"
+      },
+      {
+        "action": "Assigned to changed from Unassigned to Ravi Kumar",
+        "by": "Admin",
+        "date": "2026-06-07T05:48:45.864Z"
+      }
+    ],
+    "resolvedDate": ""
+  },
+  {
+    "id": "1780771707589",
+    "issueId": "QA-2025-00132",
+    "project": "",
+    "module": "General",
+    "pageName": "General",
+    "issueTitle": "6",
+    "type": "Functional",
+    "severity": "Medium",
+    "priority": "P3",
+    "status": "Open",
+    "assignedTo": "Sneha Reddy",
+    "raisedBy": "Current User",
+    "raisedDate": "07 Jun 2026",
+    "attachmentsCount": 1,
+    "issueDetails": "6",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "image.png",
+        "url": "/uploads/files-1780771707572-17681791.png"
+      }
+    ],
+    "comments": [],
+    "history": [
+      {
+        "action": "Created",
+        "by": "Current User",
+        "date": "2026-06-06T18:48:27.589Z"
+      },
+      {
+        "action": "Assigned to changed from Unassigned to Sneha Reddy",
+        "by": "Admin",
+        "date": "2026-06-07T05:48:43.683Z"
+      }
+    ],
+    "resolvedDate": ""
+  },
+  {
+    "id": "1780771707557",
+    "issueId": "QA-2025-00131",
+    "project": "",
+    "module": "General",
+    "pageName": "General",
+    "issueTitle": "5",
+    "type": "Functional",
+    "severity": "Medium",
+    "priority": "P3",
+    "status": "Open",
+    "assignedTo": "",
+    "raisedBy": "Current User",
+    "raisedDate": "07 Jun 2026",
+    "attachmentsCount": 1,
+    "issueDetails": "5",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "image.png",
+        "url": "/uploads/files-1780771707540-587854977.png"
+      }
+    ],
+    "comments": [],
+    "history": [
+      {
+        "action": "Created",
+        "by": "Current User",
+        "date": "2026-06-06T18:48:27.557Z"
+      }
+    ],
+    "resolvedDate": ""
+  },
+  {
+    "id": "1780771707524",
+    "issueId": "QA-2025-00130",
+    "project": "",
+    "module": "General",
+    "pageName": "General",
+    "issueTitle": "4",
+    "type": "Functional",
+    "severity": "Medium",
+    "priority": "P3",
+    "status": "Open",
+    "assignedTo": "",
+    "raisedBy": "Current User",
+    "raisedDate": "07 Jun 2026",
+    "attachmentsCount": 1,
+    "issueDetails": "4",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "image.png",
+        "url": "/uploads/files-1780771707509-59718114.png"
+      }
+    ],
+    "comments": [],
+    "history": [
+      {
+        "action": "Created",
+        "by": "Current User",
+        "date": "2026-06-06T18:48:27.524Z"
+      }
+    ],
+    "resolvedDate": ""
+  },
+  {
+    "id": "1780771707493",
+    "issueId": "QA-2025-00129",
+    "project": "",
+    "module": "General",
+    "pageName": "General",
+    "issueTitle": "3",
+    "type": "Functional",
+    "severity": "Medium",
+    "priority": "P3",
+    "status": "Open",
+    "assignedTo": "",
+    "raisedBy": "Current User",
+    "raisedDate": "07 Jun 2026",
+    "attachmentsCount": 1,
+    "issueDetails": "3",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "image.png",
+        "url": "/uploads/files-1780771707473-431554024.png"
+      }
+    ],
+    "comments": [],
+    "history": [
+      {
+        "action": "Created",
+        "by": "Current User",
+        "date": "2026-06-06T18:48:27.494Z"
+      }
+    ],
+    "resolvedDate": ""
+  },
+  {
+    "id": "1780771707459",
+    "issueId": "QA-2025-00128",
+    "project": "",
+    "module": "General",
+    "pageName": "General",
+    "issueTitle": "2",
+    "type": "Functional",
+    "severity": "Medium",
+    "priority": "P3",
+    "status": "Open",
+    "assignedTo": "",
+    "raisedBy": "Current User",
+    "raisedDate": "07 Jun 2026",
+    "attachmentsCount": 1,
+    "issueDetails": "2",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "image.png",
+        "url": "/uploads/files-1780771707442-719497586.png"
+      }
+    ],
+    "comments": [],
+    "history": [
+      {
+        "action": "Created",
+        "by": "Current User",
+        "date": "2026-06-06T18:48:27.459Z"
+      }
+    ],
+    "resolvedDate": ""
+  },
+  {
+    "id": "1780771707423",
+    "issueId": "QA-2025-00127",
+    "project": "",
+    "module": "General",
+    "pageName": "General",
+    "issueTitle": "1",
+    "type": "Functional",
+    "severity": "Medium",
+    "priority": "P3",
+    "status": "Open",
+    "assignedTo": "",
+    "raisedBy": "Current User",
+    "raisedDate": "07 Jun 2026",
+    "attachmentsCount": 1,
+    "issueDetails": "1",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "image.png",
+        "url": "/uploads/files-1780771707399-374140363.png"
+      }
+    ],
+    "comments": [],
+    "history": [
+      {
+        "action": "Created",
+        "by": "Current User",
+        "date": "2026-06-06T18:48:27.423Z"
+      }
+    ],
+    "resolvedDate": ""
+  },
+  {
+    "id": "1780771267675",
+    "issueId": "QA-2025-00126",
+    "project": "",
+    "module": "General",
+    "pageName": "General",
+    "issueTitle": "side bar is not looking good ",
+    "type": "Functional",
+    "severity": "Medium",
+    "priority": "P3",
+    "status": "Open",
+    "assignedTo": "",
+    "raisedBy": "Current User",
+    "raisedDate": "07 Jun 2026",
+    "attachmentsCount": 1,
+    "issueDetails": "side bar is not looking good ",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "image.png",
+        "url": "/uploads/files-1780771267639-828469525.png"
+      }
+    ],
+    "comments": [],
+    "history": [
+      {
+        "action": "Created",
+        "by": "Current User",
+        "date": "2026-06-06T18:41:07.675Z"
+      }
+    ],
+    "resolvedDate": ""
+  },
+  {
+    "id": "1780769213157",
+    "issueId": "QA-2025-00125",
+    "project": "",
+    "module": "Issue page",
+    "pageName": "issue",
+    "issueTitle": "ui issue",
+    "type": "Functional",
+    "severity": "High",
+    "priority": "P3",
+    "status": "Open",
+    "assignedTo": "Ravi Kumar",
+    "raisedBy": "Current User",
+    "raisedDate": "06 Jun 2026",
+    "attachmentsCount": 1,
+    "issueDetails": "ui issues",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "Screenshot 2026-05-31 111309.png",
+        "url": "/uploads/files-1780769213054-417305820.png"
+      }
+    ],
+    "history": [
+      {
+        "action": "Severity changed to High",
+        "by": "Current User",
+        "date": "2026-06-06T18:24:04.849Z"
+      },
+      {
+        "action": "Assigned to Ravi Kumar",
+        "by": "Current User",
+        "date": "2026-06-06T18:24:11.148Z"
+      },
+      {
+        "action": "Resolved Date set to 22 Oct 2",
+        "by": "Current User",
+        "date": "2026-06-06T18:24:23.942Z"
+      },
+      {
+        "action": "Resolved Date set to 2026-06-23",
+        "by": "Current User",
+        "date": "2026-06-06T18:28:16.301Z"
+      },
+      {
+        "action": "Resolved Date set to 2026-06-23",
+        "by": "Current User",
+        "date": "2026-06-06T18:30:35.281Z"
+      }
+    ],
+    "comments": [
+      {
+        "text": "mahananda sai",
+        "by": "Current User",
+        "date": "2026-06-06T18:18:42.863Z"
+      }
+    ],
+    "resolvedDate": "2026-06-23"
+  },
+  {
+    "id": "1",
+    "issueId": "QA-2025-00124",
+    "project": "Evergreen Farms",
+    "module": "POS",
+    "pageName": "Checkout",
+    "issueTitle": "Payment validation failed",
+    "type": "Functional",
+    "severity": "Critical",
+    "priority": "P1",
+    "status": "Open",
+    "assignedTo": "Ravi Kumar",
+    "raisedBy": "Mohananda",
+    "raisedDate": "30 May 2025",
+    "attachmentsCount": 3,
+    "history": [
+      {
+        "action": "Resolved Date set to 01 Jun 2026",
+        "by": "Current User",
+        "date": "2026-06-06T18:26:29.644Z"
+      },
+      {
+        "action": "Resolved Date set to 06 Jun 2026",
+        "by": "Current User",
+        "date": "2026-06-06T18:26:32.833Z"
+      },
+      {
+        "action": "Resolved Date set to 06 Jun 2026",
+        "by": "Current User",
+        "date": "2026-06-06T18:26:32.944Z"
+      },
+      {
+        "action": "Resolved Date set to 27 Jun 2026",
+        "by": "Current User",
+        "date": "2026-06-06T18:26:41.908Z"
+      },
+      {
+        "action": "Resolved Date set to 2026-06-27",
+        "by": "Current User",
+        "date": "2026-06-06T18:28:08.768Z"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "id": "2",
+    "issueId": "QA-2025-00123",
+    "project": "Evergreen Farms",
+    "module": "Payment",
+    "pageName": "Card Details",
+    "issueTitle": "Card number not masked",
+    "type": "UI",
+    "severity": "High",
+    "priority": "P2",
+    "status": "In Progress",
+    "assignedTo": "Vikram Singh",
+    "raisedBy": "Sneha Reddy",
+    "raisedDate": "30 May 2025",
+    "attachmentsCount": 2
+  },
+  {
+    "id": "3",
+    "issueId": "QA-2025-00122",
+    "project": "Evergreen Farms",
+    "module": "Dashboard",
+    "pageName": "Home",
+    "issueTitle": "Total sales data mismatch",
+    "type": "Functional",
+    "severity": "Medium",
+    "priority": "P3",
+    "status": "In Progress",
+    "assignedTo": "Priya Nair",
+    "raisedBy": "Anjali Mehta",
+    "raisedDate": "29 May 2025",
+    "attachmentsCount": 2
+  },
+  {
+    "id": "4",
+    "issueId": "QA-2025-00121",
+    "project": "Evergreen Farms",
+    "module": "Profile",
+    "pageName": "Edit Profile",
+    "issueTitle": "Profile image upload issue",
+    "type": "UI",
+    "severity": "Low",
+    "priority": "P3",
+    "status": "Retesting",
+    "assignedTo": "Arjun Patel",
+    "raisedBy": "Ravi Kumar",
+    "raisedDate": "28 May 2025",
+    "attachmentsCount": 1
+  },
+  {
+    "id": "5",
+    "issueId": "QA-2025-00120",
+    "project": "Evergreen Farms",
+    "module": "Search",
+    "pageName": "Search Page",
+    "issueTitle": "Search results not relevant",
+    "type": "Functional",
+    "severity": "High",
+    "priority": "P2",
+    "status": "Open",
+    "assignedTo": "Sneha Reddy",
+    "raisedBy": "Priya Nair",
+    "raisedDate": "27 May 2025",
+    "attachmentsCount": 1
+  },
+  {
+    "id": "6",
+    "issueId": "QA-2025-00119",
+    "project": "Evergreen Farms",
+    "module": "Settings",
+    "pageName": "Notification",
+    "issueTitle": "Push notification delay",
+    "type": "Functional",
+    "severity": "Medium",
+    "priority": "P2",
+    "status": "Blocked",
+    "assignedTo": "Ravi Kumar",
+    "raisedBy": "Vikram Singh",
+    "raisedDate": "26 May 2025",
+    "attachmentsCount": 2
+  },
+  {
+    "id": "7",
+    "issueId": "QA-2025-00118",
+    "project": "Evergreen Farms",
+    "module": "Cart",
+    "pageName": "Cart Page",
+    "issueTitle": "Item quantity not updating",
+    "type": "Functional",
+    "severity": "High",
+    "priority": "P1",
+    "status": "Open",
+    "assignedTo": "Priya Nair",
+    "raisedBy": "Anjali Mehta",
+    "raisedDate": "25 May 2025",
+    "attachmentsCount": 3
+  },
+  {
+    "id": "8",
+    "issueId": "QA-2025-00117",
+    "project": "Evergreen Farms",
+    "module": "Reports",
+    "pageName": "Sales Report",
+    "issueTitle": "Report export mismatch",
+    "type": "Functional",
+    "severity": "Medium",
+    "priority": "P3",
+    "status": "Resolved",
+    "assignedTo": "Arjun Patel",
+    "raisedBy": "Mohananda",
+    "raisedDate": "24 May 2025",
+    "attachmentsCount": 1
+  },
+  {
+    "id": "9",
+    "issueId": "QA-2025-00116",
+    "project": "Evergreen Farms",
+    "module": "Login",
+    "pageName": "Login Page",
+    "issueTitle": "Login button not working",
+    "type": "Functional",
+    "severity": "Critical",
+    "priority": "P1",
+    "status": "In Progress",
+    "assignedTo": "Vikram Singh",
+    "raisedBy": "Ravi Kumar",
+    "raisedDate": "23 May 2025",
+    "attachmentsCount": 4
+  },
+  {
+    "id": "10",
+    "issueId": "QA-2025-00115",
+    "project": "Evergreen Farms",
+    "module": "Payment",
+    "pageName": "UPI Payment",
+    "issueTitle": "UPI payment failure",
+    "type": "Functional",
+    "severity": "High",
+    "priority": "P1",
+    "status": "Retesting",
+    "assignedTo": "Sneha Reddy",
+    "raisedBy": "Priya Nair",
+    "raisedDate": "22 May 2025",
+    "attachmentsCount": 3
+  }
+]

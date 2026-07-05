@@ -1,0 +1,204 @@
+[
+  {
+    "id": 1783261529231,
+    "date": "2026-07-05",
+    "time": "19:55",
+    "agendaTitle": "9825698426985425",
+    "agendaSubtitle": "Discussion",
+    "pointsCount": 13,
+    "preparedBy": {
+      "name": "Admin",
+      "empId": "admin",
+      "avatar": "https://ui-avatars.com/api/?name=Admin&background=7A2434&color=fff"
+    },
+    "attendees": 1,
+    "attendeesList": [
+      "Admin"
+    ],
+    "notes": " Minutes of Meeting (MoM)\n\n**Date:** ____________________\n\n**Time:** ____________________\n\n**Attendees:** ____________________\n\n1. Reviewed the **Dashboard** page and confirmed the overall layout and navigation flow.\n\n2. Discussed improvements required for the **Users** page to ensure all functionalities work without issues.\n\n3. Reviewed the **Roles & Permissions** page and verified access control requirements.\n\n4. Evaluated the **Settings** page for configuration consistency and usability.\n\n5. Reviewed the **Profile** page and identified minor UI enhancements.\n\n6. Discussed the **Reports** page and validated data presentation requirements.\n\n7. Reviewed the **Notifications** page to ensure proper alert and messaging functionality.\n\n8. Conducted **AI analysis** on the application to identify UI inconsistencies, functional gaps, and optimization opportunities.\n\n9. Planned **AI-based testing** to validate end-to-end workflows, edge cases, and error handling across all pages.\n\n10. Discussed responsive design verification for desktop, tablet, and mobile devices.\n\n11. Reviewed validation rules, API integrations, and performance optimization requirements.\n\n12. Assigned action items to resolve identified issues and complete pending enhancements before the next review.\n\n13. Concluded the meeting by confirming the project timeline, deliverables, and the schedule for the next progress review.\n\n"
+  },
+  {
+    "id": 1783261440886,
+    "date": "2026-07-05",
+    "time": "19:52",
+    "agendaTitle": "daashbord page",
+    "agendaSubtitle": "Discussion",
+    "pointsCount": 13,
+    "preparedBy": {
+      "name": "Admin",
+      "empId": "admin",
+      "avatar": "https://ui-avatars.com/api/?name=Admin&background=7A2434&color=fff"
+    },
+    "attendees": 1,
+    "attendeesList": [
+      "Admin"
+    ],
+    "notes": " Minutes of Meeting (MoM)\n\n**Date:** ____________________\n\n**Time:** ____________________\n\n**Attendees:** ____________________\n\n1. Reviewed the **Dashboard** page and confirmed the overall layout and navigation flow.\n\n2. Discussed improvements required for the **Users** page to ensure all functionalities work without issues.\n\n3. Reviewed the **Roles & Permissions** page and verified access control requirements.\n\n4. Evaluated the **Settings** page for configuration consistency and usability.\n\n5. Reviewed the **Profile** page and identified minor UI enhancements.\n\n6. Discussed the **Reports** page and validated data presentation requirements.\n\n7. Reviewed the **Notifications** page to ensure proper alert and messaging functionality.\n\n8. Conducted **AI analysis** on the application to identify UI inconsistencies, functional gaps, and optimization opportunities.\n\n9. Planned **AI-based testing** to validate end-to-end workflows, edge cases, and error handling across all pages.\n\n10. Discussed responsive design verification for desktop, tablet, and mobile devices.\n\n11. Reviewed validation rules, API integrations, and performance optimization requirements.\n\n12. Assigned action items to resolve identified issues and complete pending enhancements before the next review.\n\n13. Concluded the meeting by confirming the project timeline, deliverables, and the schedule for the next progress review.\n\n"
+  },
+  {
+    "id": 1783261218550,
+    "date": "2026-07-05",
+    "time": "19:49",
+    "agendaTitle": "daashbord page",
+    "agendaSubtitle": "Discussion",
+    "pointsCount": 0,
+    "preparedBy": {
+      "name": "Admin",
+      "empId": "admin",
+      "avatar": "https://ui-avatars.com/api/?name=Admin&background=7A2434&color=fff"
+    },
+    "attendees": 1,
+    "attendeesList": [
+      "Admin"
+    ],
+    "notes": "hai 123"
+  },
+  {
+    "id": 1783246757504,
+    "date": "2026-07-05",
+    "time": "15:48",
+    "agendaTitle": "123",
+    "agendaSubtitle": "Discussion",
+    "pointsCount": 13,
+    "preparedBy": {
+      "name": "Admin",
+      "empId": "admin",
+      "avatar": "https://ui-avatars.com/api/?name=Admin&background=7A2434&color=fff"
+    },
+    "attendees": 1,
+    "attendeesList": [
+      "Admin"
+    ],
+    "notes": " Minutes of Meeting (MoM)\n\n**Date:** ____________________\n\n**Time:** ____________________\n\n**Attendees:** ____________________\n\n1. Reviewed the **Dashboard** page and confirmed the overall layout and navigation flow.\n\n2. Discussed improvements required for the **Users** page to ensure all functionalities work without issues.\n\n3. Reviewed the **Roles & Permissions** page and verified access control requirements.\n\n4. Evaluated the **Settings** page for configuration consistency and usability.\n\n5. Reviewed the **Profile** page and identified minor UI enhancements.\n\n6. Discussed the **Reports** page and validated data presentation requirements.\n\n7. Reviewed the **Notifications** page to ensure proper alert and messaging functionality.\n\n8. Conducted **AI analysis** on the application to identify UI inconsistencies, functional gaps, and optimization opportunities.\n\n9. Planned **AI-based testing** to validate end-to-end workflows, edge cases, and error handling across all pages.\n\n10. Discussed responsive design verification for desktop, tablet, and mobile devices.\n\n11. Reviewed validation rules, API integrations, and performance optimization requirements.\n\n12. Assigned action items to resolve identified issues and complete pending enhancements before the next review.\n\n13. Concluded the meeting by confirming the project timeline, deliverables, and the schedule for the next progress review.\n\n"
+  },
+  {
+    "id": 1783136767146,
+    "date": "2026-07-04",
+    "time": "09:15",
+    "agendaTitle": "test july 4th 1",
+    "agendaSubtitle": "Discussion",
+    "pointsCount": 16,
+    "preparedBy": {
+      "name": "Admin",
+      "empId": "EMP8461",
+      "avatar": "https://i.pravatar.cc/150?u=1783136767146"
+    },
+    "attendees": 1,
+    "attendeesList": [
+      "Admin"
+    ],
+    "notes": "Minutes of Meeting (MoM)\nAI Analysis Testing\nDiscussion Points\n1. Project objectives and scope of the AI Analysis Testing module.\n2. Review of application analysis workflow and expected outputs.\n3. Supported input methods (URL, credentials, documents, text).\n4. AI-powered application flow discovery and navigation mapping.\n5. Functional module identification and categorization.\n6. Automatic requirement extraction from analyzed applications.\n7. User role detection and access-level analysis.\n8. Business rule identification and validation.\n9. Test scenario generation strategy (Smoke, Sanity, Regression, End-to-End).\n10. Automatic test case generation with priority and traceability.\n11. Risk analysis and critical path identification.\n12. UI/UX consistency checks and accessibility validation.\n13. API endpoint discovery and integration analysis.\n14. Defect prediction, duplicate issue detection, and recommendations.\n15. Export options for analysis reports, requirements, and test cases (PDF/Excel).\n16. Action items, owners, timelines, and next meeting schedule."
+  },
+  {
+    "id": 1783136095676,
+    "date": "2026-07-04",
+    "time": "09:04",
+    "agendaTitle": "gggggg",
+    "agendaSubtitle": "Discussion",
+    "pointsCount": 13,
+    "preparedBy": {
+      "name": "Maha",
+      "empId": "EMP1649",
+      "avatar": "https://i.pravatar.cc/150?u=1783136095678"
+    },
+    "attendees": 1,
+    "attendeesList": [
+      "Maha"
+    ],
+    "notes": " Minutes of Meeting (MoM)\n\n**Date:** ____________________\n\n**Time:** ____________________\n\n**Attendees:** ____________________\n\n1. Reviewed the **Dashboard** page and confirmed the overall layout and navigation flow.\n\n2. Discussed improvements required for the **Users** page to ensure all functionalities work without issues.\n\n3. Reviewed the **Roles & Permissions** page and verified access control requirements.\n\n4. Evaluated the **Settings** page for configuration consistency and usability.\n\n5. Reviewed the **Profile** page and identified minor UI enhancements.\n\n6. Discussed the **Reports** page and validated data presentation requirements.\n\n7. Reviewed the **Notifications** page to ensure proper alert and messaging functionality.\n\n8. Conducted **AI analysis** on the application to identify UI inconsistencies, functional gaps, and optimization opportunities.\n\n9. Planned **AI-based testing** to validate end-to-end workflows, edge cases, and error handling across all pages.\n\n10. Discussed responsive design verification for desktop, tablet, and mobile devices.\n\n11. Reviewed validation rules, API integrations, and performance optimization requirements.\n\n12. Assigned action items to resolve identified issues and complete pending enhancements before the next review.\n\n13. Concluded the meeting by confirming the project timeline, deliverables, and the schedule for the next progress review.\n\n"
+  },
+  {
+    "id": 1783135758325,
+    "date": "2026-07-04",
+    "time": "08:57",
+    "agendaTitle": "Maha Test",
+    "agendaSubtitle": "Discussion",
+    "pointsCount": 19,
+    "preparedBy": {
+      "name": "Maha",
+      "empId": "EMP5199",
+      "avatar": "https://i.pravatar.cc/150?u=1783135758326"
+    },
+    "attendees": 2,
+    "attendeesList": [
+      "Maha",
+      "Admin"
+    ],
+    "notes": "1. Product Quotation Created\nTrigger: When staff issues a new quote to a customer.\nSMS Text:\n\"Hi team, a new Product Quotation #{quoteNumber} has been created and issued to {customerName} for a total of ${total}. Please review the details on the admin panel to track the acceptance status. - Evergreen Farms USA\"\n\n2. Product Quotation Approved\nTrigger: When the customer clicks \"Accept\" on their digital quote link.\nSMS Text:\n\"Hi team, this is an update from Evergreen Farms USA. {customerName} has just accepted Product Quotation #{quoteNumber} for a total of ${total}. Invoice #{invoiceId} has been generated and issued. Please review it at admin panel. - Evergreen Farms USA\"\n\n3. Product Quotation Partially Paid\nTrigger: When a customer pays a deposit or installment via Stripe.\nSMS Text:\n\"Hi team, we've received a partial payment of ${amount} from {customerName} for Product Quote #{quoteNumber}. There is a remaining balance of ${balance}. Please keep an eye on the admin panel for the finalized payment before proceeding with all items. - Evergreen Farms USA\"\n\n4. Product Quotation Fully Paid\nTrigger: When the customer completes the final payment via Stripe.\nSMS Text:\n\"Hi team, great news! {customerName} has just made the full payment of ${amount} for Product Quote #{quoteNumber}. The quotation is now fully paid and finalized. Please check the admin panel to move forward with the scheduled delivery or pickup. - Evergreen Farms USA\"\n\n5. Product Quotation Question Received\nTrigger: When a customer uses the \"Have Questions\" link instead of accepting.\nSMS Text:\n\"Hi team, a customer ({customerName}) has just submitted a query for Product Quote #{quoteNumber}. They have a question instead of accepting. Please review the query on the admin panel to answer them and convert the sale. - Evergreen Farms USA\"\n\n6. Product Quotation Cancelled\nTrigger: When a staff member manually cancels the quote or invoice.\nSMS Text:\n\"Hi team, Product Quotation #{quoteNumber} for {customerName} has just been cancelled. Please review the admin panel to ensure all pending fulfillment (delivery/pickup) and billing are correctly finalized. - Evergreen Farms USA\"\n Minutes of Meeting (MoM)\n\n**Date:** ____________________\n\n**Time:** ____________________\n\n**Attendees:** ____________________\n\n1. Reviewed the **Dashboard** page and confirmed the overall layout and navigation flow.\n\n2. Discussed improvements required for the **Users** page to ensure all functionalities work without issues.\n\n3. Reviewed the **Roles & Permissions** page and verified access control requirements.\n\n4. Evaluated the **Settings** page for configuration consistency and usability.\n\n5. Reviewed the **Profile** page and identified minor UI enhancements.\n\n6. Discussed the **Reports** page and validated data presentation requirements.\n\n7. Reviewed the **Notifications** page to ensure proper alert and messaging functionality.\n\n8. Conducted **AI analysis** on the application to identify UI inconsistencies, functional gaps, and optimization opportunities.\n\n9. Planned **AI-based testing** to validate end-to-end workflows, edge cases, and error handling across all pages.\n\n10. Discussed responsive design verification for desktop, tablet, and mobile devices.\n\n11. Reviewed validation rules, API integrations, and performance optimization requirements.\n\n12. Assigned action items to resolve identified issues and complete pending enhancements before the next review.\n\n13. Concluded the meeting by confirming the project timeline, deliverables, and the schedule for the next progress review.\n\n"
+  },
+  {
+    "id": 1783101582320,
+    "date": "2026-07-03",
+    "time": "23:29",
+    "agendaTitle": "test123",
+    "agendaSubtitle": "Discussion",
+    "pointsCount": 13,
+    "preparedBy": {
+      "name": "Admin",
+      "empId": "EMP3236",
+      "avatar": "https://i.pravatar.cc/150?u=1783101582320"
+    },
+    "attendees": 1,
+    "attendeesList": [
+      "Admin"
+    ],
+    "notes": "# Minutes of Meeting (MoM)\n\n**Date:** ____________________\n**Time:** ____________________\n**Attendees:** ____________________\n\n1. Reviewed the **Dashboard** page and confirmed the overall layout and navigation flow.\n2. Discussed improvements required for the **Users** page to ensure all functionalities work without issues.\n3. Reviewed the **Roles & Permissions** page and verified access control requirements.\n4. Evaluated the **Settings** page for configuration consistency and usability.\n5. Reviewed the **Profile** page and identified minor UI enhancements.\n6. Discussed the **Reports** page and validated data presentation requirements.\n7. Reviewed the **Notifications** page to ensure proper alert and messaging functionality.\n8. Conducted **AI analysis** on the application to identify UI inconsistencies, functional gaps, and optimization opportunities.\n9. Planned **AI-based testing** to validate end-to-end workflows, edge cases, and error handling across all pages.\n10. Discussed responsive design verification for desktop, tablet, and mobile devices.\n11. Reviewed validation rules, API integrations, and performance optimization requirements.\n12. Assigned action items to resolve identified issues and complete pending enhancements before the next review.\n13. Concluded the meeting by confirming the project timeline, deliverables, and the schedule for the next progress review.\n"
+  },
+  {
+    "id": 1782658476817,
+    "date": "2026-06-28",
+    "time": "20:22",
+    "agendaTitle": "tetsiing 2",
+    "agendaSubtitle": "Discussion",
+    "pointsCount": 8,
+    "preparedBy": {
+      "name": "Admin",
+      "empId": "EMP7090",
+      "avatar": "https://i.pravatar.cc/150?u=1782658476820"
+    },
+    "attendees": 1,
+    "attendeesList": [
+      "Admin"
+    ],
+    "notes": "Minutes of Meeting\nDate: 28-06-2026\nProject: MetaDock\nAttendees: Product Manager, QA Team, Developers, UI Designer\n\n1. Improve the login page UI by increasing the spacing between the logo, title, and login form. Update the design before the next sprint.\n\n2. Dashboard summary cards should display larger icons, better alignment, and consistent padding across all cards for a professional appearance.\n\n3. The Requirements module should support filtering by module, priority, assignee, and status, along with Excel export functionality.\n\n4. The Minutes of Meeting upload feature should automatically extract action items and convert them into structured table rows.\n\n5. The Production Issues page should detect duplicate issues during Excel upload and prevent duplicate entries from being created.\n\n6. Add email and in-app notifications whenever an issue is assigned, its status changes, or it is marked as completed.\n\n7. Optimize dashboard performance by reducing the initial page load time to under three seconds and improving API response times.\n\n8. QA team will complete regression testing by Thursday, and developers should resolve all High and Critical issues before deploying to the staging environment."
+  },
+  {
+    "id": 1782631835519,
+    "date": "2026-06-28",
+    "time": "12:58",
+    "agendaTitle": "Testing 1",
+    "agendaSubtitle": "Discussion",
+    "pointsCount": 11,
+    "preparedBy": {
+      "name": "Admin",
+      "empId": "EMP2262",
+      "avatar": "https://i.pravatar.cc/150?u=1782631835519"
+    },
+    "attendees": 1,
+    "attendeesList": [
+      "Admin"
+    ],
+    "notes": "Minutes of Meeting\nDate: 28-06-2026\nProject: MetaDock\nAttendees: Product Manager, QA, Developers, UI Team\n\n1. Login page needs UI improvements. Increase spacing between logo, title, and login form. Update before the next sprint.\n\n2. Dashboard summary cards should include meaningful icons with better alignment and use consistent padding across all cards.\n\n3. Production issues module should support Excel upload. Duplicate issues should be detected automatically during import.\n\n4. Minutes of Meeting upload feature should extract action items, owners, priorities, and due dates automatically from uploaded notes.\n\n5. Requirements page should include filters by module, priority, status, and assigned developer. Export functionality is also required.\n\n6. QA team requested a separate Production Issues dashboard showing Open, In Progress, Resolved, and Closed issue counts.\n\n7. Notifications should be sent whenever issue status changes or a new requirement is assigned to a developer.\n\n8. Documents module should generate Release Notes automatically based on completed requirements within the selected date range.\n\n9. User Management page should support role-based permissions including Admin, Project Manager, Developer, QA, and Client.\n\n10. API response time for dashboard statistics should be optimized because loading currently takes more than five seconds.\n\n11. QA team will complete regression testing by Friday. Development team will fix all High and Critical issues before deployment to staging."
+  },
+  {
+    "id": 2,
+    "date": "29 May 2025",
+    "time": "03:00 PM",
+    "agendaTitle": "POS Print Issue",
+    "agendaSubtitle": "Discussion",
+    "pointsCount": 6,
+    "preparedBy": {
+      "name": "Kiran",
+      "empId": "EMP1008",
+      "avatar": "https://i.pravatar.cc/150?img=11"
+    },
+    "attendees": 4,
+    "attendeesList": [
+      "Mahanandia",
+      "Harsh",
+      "Kiran",
+      "Lokesh"
+    ],
+    "notes": "POS printers not aligning."
+  }
+]

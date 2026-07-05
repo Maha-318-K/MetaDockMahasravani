@@ -1,0 +1,170 @@
+:root {
+  --bg-main: #0b0c10;
+  --bg-secondary: #111216;
+  --bg-tertiary: #1a1b23;
+  --bg-sidebar: linear-gradient(180deg, #1e3a8a 0%, #0f172a 100%);
+  --text-main: #000000;
+  --text-muted: #a0a3b1;
+  --sidebar-text: rgba(255, 255, 255, 0.7);
+  --sidebar-active-bg: rgba(255, 255, 255, 0.15);
+  --sidebar-active-text: #ffffff;
+  --border-color: #2a2c33;
+  --card-shadow: none;
+  --hover-bg: var(--border-light);
+  --border-light: var(--border-light);
+  --border-strong: var(--border-strong);
+  --input-bg: var(--input-bg);
+}
+
+[data-theme="light"] {
+  --bg-main: #f4f6f8;
+  --bg-secondary: transparent;
+  --bg-tertiary: transparent;
+  --bg-sidebar: #16A34A;
+  --text-main: #000000;
+  --text-muted: #1f2937;
+  --sidebar-text: rgba(0, 0, 0, 0.75);
+  --sidebar-active-bg: rgba(0, 0, 0, 0.1);
+  --sidebar-active-text: #000000;
+  --border-color: #e5e7eb;
+  --card-shadow: none;
+  --hover-bg: rgba(0, 0, 0, 0.04);
+  --border-light: rgba(0, 0, 0, 0.05);
+  --border-strong: rgba(0, 0, 0, 0.1);
+  --input-bg: transparent;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  background: var(--bg-main);
+  color: var(--text-main);
+  font-family: 'Inter', sans-serif;
+}
+
+/* Global Table Styles */
+.app-content table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  border: none;
+}
+
+.app-content table thead tr {
+  background-color: rgba(246, 237, 230, 0.7) !important;
+}
+
+.app-content table th {
+  padding: 16px 24px !important;
+  color: #000000 !important;
+  font-size: 0.75rem !important;
+  font-weight: 600 !important;
+  text-align: left !important;
+  border-bottom: none !important;
+}
+
+.app-content table th:first-child {
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+}
+
+.app-content table th:last-child {
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+
+.app-content table td {
+  padding: 18px 24px !important;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.03) !important;
+  color: #000000 !important;
+  font-weight: 500;
+  font-size: 0.9rem !important;
+}
+
+/* Global Table Container Styles */
+.app-content div[class*="table-container"],
+.app-content div[class*="list-container"] {
+  background: transparent !important;
+  backdrop-filter: none !important;
+  -webkit-backdrop-filter: none !important;
+  border: 1px solid var(--border-light) !important;
+  border-radius: 16px !important;
+  box-shadow: 0 10px 30px rgba(22, 163, 74, 0.05), inset 0 2px 5px rgba(255, 255, 255, 0.8) !important;
+  overflow: hidden;
+  padding: 8px;
+}
+
+/* Global Modal Glassy White Style */
+.modal-overlay,
+div[class*="modal-overlay"] {
+  background: rgba(0, 0, 0, 0.3) !important;
+  backdrop-filter: blur(4px) !important;
+  -webkit-backdrop-filter: blur(4px) !important;
+}
+
+.modal-content,
+div[class*="modal-content"] {
+  background: rgba(255, 255, 255, 0.8) !important;
+  backdrop-filter: blur(24px) !important;
+  -webkit-backdrop-filter: blur(24px) !important;
+  border: 1px solid rgba(255, 255, 255, 0.8) !important;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15) !important;
+}
+
+/* Global Cancel Button Hover (Solid Red) */
+
+/* Global Dropdown Hover Effect */
+.dropdown-menu button:hover,
+.dropdown-menu div:hover,
+.action-menu button:hover,
+.action-menu div:hover,
+.pi-assignee-menu div:hover,
+.project-dropdown button:hover,
+.add-dropdown-menu button:hover,
+.pi-dropdown-menu button:hover,
+.action-dropdown div:hover,
+.action-dropdown button:hover,
+[class$="-dropdown-menu"] button:hover,
+[class$="-dropdown-menu"] div:hover,
+[class$="dropdown"] button:hover,
+[class$="dropdown"] div:hover {
+  background-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+button[class*="cancel"]:hover,
+button[class*="secondary-btn"]:hover {
+  background-color: #ef4444 !important;
+  color: #ffffff !important;
+  border-color: #ef4444 !important;
+}
+
+/* Global Select Option Styles */
+select option {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+}
+
+/* Global Table Heading Styles */
+th,
+thead th,
+table th,
+.table th,
+.mom-table th,
+.users-table th,
+.tracker-table th,
+.table-header,
+th *,
+thead th *,
+.tracker-table th span,
+.tracker-table th div,
+.users-table th *,
+table thead th * {
+  color: #000000 !important;
+  font-weight: 600 !important;
+  font-family: inherit;
+}

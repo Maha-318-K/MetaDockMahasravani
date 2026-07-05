@@ -1,0 +1,11 @@
+{
+  "ignore": [
+    "data",
+    "data/**",
+    "data/*",
+    "whatsapp-session",
+    "whatsapp-session/**",
+    "whatsapp-session/*",
+    "whatsapp-debug.log"
+  ]
+}

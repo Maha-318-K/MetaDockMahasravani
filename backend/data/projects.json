@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1783249393336,
+    "name": "sai",
+    "description": "sai",
+    "status": "Completed",
+    "logo": "/uploads/files-1783249393170-295395893.png",
+    "createdAt": "2026-07-05T11:03:13.336Z"
+  },
+  {
+    "id": 1783248658805,
+    "name": "sai",
+    "description": "its the best prjoject of my life and first prject",
+    "status": "Active",
+    "logo": "/uploads/files-1783248658602-452413339.png",
+    "createdAt": "2026-07-05T10:50:58.805Z"
+  },
+  {
+    "id": 1783101093369,
+    "name": "sai",
+    "description": "sai",
+    "status": "Planning",
+    "logo": "/uploads/files-1783101092920-307086498.jpeg",
+    "createdAt": "2026-07-03T17:51:33.369Z"
+  },
+  {
+    "id": 1783100951608,
+    "name": "maha",
+    "description": "mahanansa sai",
+    "status": "In Progress",
+    "createdAt": "2026-07-03T17:49:11.609Z"
+  },
+  {
+    "id": 1783100069970,
+    "name": "Maha",
+    "description": "ad th enew project",
+    "status": "Active",
+    "createdAt": "2026-07-03T17:34:29.970Z"
+  },
+  {
+    "id": 1781762210245,
+    "name": "Regal soalr",
+    "description": "regal soalr project",
+    "status": "Planned",
+    "createdAt": "2026-06-18T05:56:50.245Z"
+  },
+  {
+    "id": 1781351848412,
+    "name": "EGF",
+    "description": "abcd",
+    "status": "Active",
+    "createdAt": "2026-06-13T11:57:28.412Z"
+  },
+  {
+    "id": 1780813521620,
+    "name": "Atlanta Fence Company(AFC)",
+    "description": "Fence constructions",
+    "status": "Active",
+    "createdAt": "2026-06-07T06:25:21.620Z"
+  },
+  {
+    "id": 1,
+    "name": "Default Project",
+    "description": "Initial default project",
+    "status": "Active",
+    "createdAt": "2026-06-07T06:17:18.976Z"
+  }
+]

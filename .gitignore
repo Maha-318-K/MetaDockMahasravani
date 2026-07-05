@@ -1,0 +1,6 @@
+node_modules/
+backend/whatsapp-session/
+backend/whatsapp-debug.log
+.env
+frontend/node_modules/
+backend/node_modules/

@@ -1,0 +1,35 @@
+
+> frontend@0.0.0 dev
+> vite --host 127.0.0.1
+
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m986[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5173[22m/[39m
+[2m2:54:34 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ProductionIssues.css[22m
+[2m3:09:39 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/CreateIssue.jsx[22m
+[2m3:10:05 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ProductionIssues.jsx[22m
+[2m3:10:27 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ProductionIssues.css[22m
+[2m3:10:43 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ProductionIssues.css[22m
+[2m3:17:25 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/main.jsx[22m
+[2m3:17:53 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Navbar.jsx[22m
+[2m3:18:05 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.css[22m
+[2m3:18:36 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Navbar.css[22m
+[2m3:18:58 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Sidebar.css[22m
+[2m3:19:12 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m3:20:42 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.jsx[22m
+[2m3:20:53 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.jsx[22m
+[2m3:21:18 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ProductionIssues.jsx[22m
+[2m3:27:06 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Navbar.jsx[22m
+[2m3:27:26 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Navbar.css[22m
+[2m3:33:53 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/main.jsx[22m
+[2m3:34:05 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m3:34:23 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Navbar.jsx[22m
+[2m3:34:43 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Navbar.jsx[22m
+[2m3:35:03 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Navbar.css[22m
+[2m3:35:29 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Navbar.css[22m
+[2m3:36:08 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.css[22m
+[2m3:36:30 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Sidebar.css[22m
+[2m3:37:06 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.jsx[22m
+[2m3:37:23 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ProductionIssues.jsx[22m
+[2m3:39:37 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/MomTracker.css[22m

@@ -1,0 +1,1575 @@
+{
+  "trackerData": {
+    "1": [
+      {
+        "id": 1780817269756,
+        "pageName": "",
+        "issue": "",
+        "status": "Staging",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": "",
+        "history": [
+          {
+            "field": "pageName",
+            "oldValue": "",
+            "newValue": "g",
+            "timestamp": "2026-06-28T06:20:39.453Z",
+            "who": "Admin"
+          },
+          {
+            "field": "pageName",
+            "oldValue": "g",
+            "newValue": "gg",
+            "timestamp": "2026-06-28T06:20:39.551Z",
+            "who": "Admin"
+          },
+          {
+            "field": "pageName",
+            "oldValue": "gg",
+            "newValue": "ggg",
+            "timestamp": "2026-06-28T06:20:39.704Z",
+            "who": "Admin"
+          },
+          {
+            "field": "pageName",
+            "oldValue": "ggg",
+            "newValue": "gggg",
+            "timestamp": "2026-06-28T06:20:39.853Z",
+            "who": "Admin"
+          },
+          {
+            "field": "pageName",
+            "oldValue": "gggg",
+            "newValue": "ggg",
+            "timestamp": "2026-06-28T06:20:40.389Z",
+            "who": "Admin"
+          },
+          {
+            "field": "pageName",
+            "oldValue": "ggg",
+            "newValue": "gg",
+            "timestamp": "2026-06-28T06:20:40.873Z",
+            "who": "Admin"
+          },
+          {
+            "field": "pageName",
+            "oldValue": "gg",
+            "newValue": "g",
+            "timestamp": "2026-06-28T06:20:40.900Z",
+            "who": "Admin"
+          },
+          {
+            "field": "pageName",
+            "oldValue": "g",
+            "newValue": "",
+            "timestamp": "2026-06-28T06:20:40.940Z",
+            "who": "Admin"
+          },
+          {
+            "field": "status",
+            "oldValue": "Open",
+            "newValue": "Staging",
+            "timestamp": "2026-06-28T06:25:32.495Z",
+            "who": "Admin"
+          }
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": 1782630664071,
+        "pageName": "",
+        "issue": "",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      }
+    ],
+    "1782631449328": [
+      {
+        "id": 1782631456749,
+        "pageName": "-",
+        "issue": "Login page needs UI improvements. Increase spacing between logo, title, and login form. Update before the next sprint.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1782631456750,
+        "pageName": "-",
+        "issue": "Dashboard summary cards should include meaningful icons with better alignment and use consistent padding across all cards.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1782631456751,
+        "pageName": "-",
+        "issue": "Production issues module should support Excel upload. Duplicate issues should be detected automatically during import.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1782631456752,
+        "pageName": "-",
+        "issue": "Minutes of Meeting upload feature should extract action items, owners, priorities, and due dates automatically from uploaded notes.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1782631456753,
+        "pageName": "-",
+        "issue": "Requirements page should include filters by module, priority, status, and assigned developer. Export functionality is also required.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1782631456754,
+        "pageName": "-",
+        "issue": "QA team requested a separate Production Issues dashboard showing Open, In Progress, Resolved, and Closed issue counts.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1782631456755,
+        "pageName": "-",
+        "issue": "Notifications should be sent whenever issue status changes or a new requirement is assigned to a developer.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1782631456756,
+        "pageName": "-",
+        "issue": "Documents module should generate Release Notes automatically based on completed requirements within the selected date range.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1782631456757,
+        "pageName": "User Management page should support role",
+        "issue": "based permissions including Admin, Project Manager, Developer, QA, and Client.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1782631456758,
+        "pageName": "-",
+        "issue": "API response time for dashboard statistics should be optimized because loading currently takes more than five seconds.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1782631456759,
+        "pageName": "-",
+        "issue": "QA team will complete regression testing by Friday. Development team will fix all High and Critical issues before deployment to staging.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      }
+    ],
+    "1782631835519": [
+      {
+        "id": 1782631840889,
+        "pageName": "Login",
+        "issue": "needs UI improvements. Increase spacing between logo, title, and login form. Update before the next sprint.",
+        "status": "In Progress",
+        "assignee": "MAHA",
+        "stagingDate": "",
+        "prodDate": "",
+        "history": [
+          {
+            "field": "assignee",
+            "oldValue": "",
+            "newValue": "Maha",
+            "timestamp": "2026-06-28T10:33:12.400Z",
+            "who": "Admin"
+          },
+          {
+            "field": "assignee",
+            "oldValue": "Maha",
+            "newValue": "MAHA",
+            "timestamp": "2026-06-28T10:33:19.194Z",
+            "who": "Admin"
+          },
+          {
+            "field": "status",
+            "oldValue": "Open",
+            "newValue": "In Progress",
+            "timestamp": "2026-06-28T14:40:08.494Z",
+            "who": "Admin"
+          }
+        ]
+      },
+      {
+        "id": 1782631840890,
+        "pageName": "Dashboard",
+        "issue": "summary cards should include meaningful icons with better alignment and use consistent padding across all cards.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1782631840891,
+        "pageName": "Production issues",
+        "issue": "should support Excel upload. Duplicate issues should be detected automatically during import.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1782631840892,
+        "pageName": "Minutes of Meeting upload",
+        "issue": "should extract action items, owners, priorities, and due dates automatically from uploaded notes.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1782631840893,
+        "pageName": "Requirements",
+        "issue": "should include filters by module, priority, status, and assigned developer. Export functionality is also required.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1782631840894,
+        "pageName": "-",
+        "issue": "QA team requested a separate Production Issues dashboard showing Open, In Progress, Resolved, and Closed issue counts.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1782631840895,
+        "pageName": "-",
+        "issue": "Notifications should be sent whenever issue status changes or a new requirement is assigned to a developer.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1782631840896,
+        "pageName": "Documents",
+        "issue": "should generate Release Notes automatically based on completed requirements within the selected date range.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1782631840897,
+        "pageName": "User Management page should support role",
+        "issue": "based permissions including Admin, Project Manager, Developer, QA, and Client.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1782631840898,
+        "pageName": "-",
+        "issue": "API response time for dashboard statistics should be optimized because loading currently takes more than five seconds.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1782631840899,
+        "pageName": "-",
+        "issue": "QA team will complete regression testing by Friday. Development team will fix all High and Critical issues before deployment to staging.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      }
+    ],
+    "1782658476817": [
+      {
+        "id": 1782658480794,
+        "pageName": "Login",
+        "issue": "Improve the login page UI by increasing the spacing between the logo, title, and login form. Update the design before the next sprint.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1782658480795,
+        "pageName": "Dashboard",
+        "issue": "Dashboard summary cards should display larger icons, better alignment, and consistent padding across all cards for a professional appearance.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1782658480796,
+        "pageName": "Requirements",
+        "issue": "The Requirements module should support filtering by module, priority, assignee, and status, along with Excel export functionality.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1782658480797,
+        "pageName": "Minutes of Meeting",
+        "issue": "The Minutes of Meeting upload feature should automatically extract action items and convert them into structured table rows.",
+        "status": "Open",
+        "assignee": "Maha",
+        "stagingDate": "",
+        "prodDate": "",
+        "history": [
+          {
+            "field": "assignee",
+            "oldValue": "",
+            "newValue": "Maha",
+            "timestamp": "2026-06-28T14:54:54.130Z",
+            "who": "Admin"
+          }
+        ]
+      },
+      {
+        "id": 1782658480798,
+        "pageName": "Production Issues",
+        "issue": "The Production Issues page should detect duplicate issues during Excel upload and prevent duplicate entries from being created.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1782658480799,
+        "pageName": "-",
+        "issue": "Add email and in-app notifications whenever an issue is assigned, its status changes, or it is marked as completed.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1782658480800,
+        "pageName": "Initial",
+        "issue": "Optimize dashboard performance by reducing the initial page load time to under three seconds and improving API response times.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1782658480801,
+        "pageName": "-",
+        "issue": "QA team will complete regression testing by Thursday, and developers should resolve all High and Critical issues before deploying to the staging environment.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      }
+    ],
+    "1783101582320": [
+      {
+        "id": 1783101589057,
+        "pageName": "Dashboard",
+        "issue": "Reviewed the Dashboard page and confirmed the overall layout and navigation flow.",
+        "status": "Open",
+        "assignee": "Admin",
+        "stagingDate": "",
+        "prodDate": "",
+        "history": [
+          {
+            "field": "assignee",
+            "oldValue": "",
+            "newValue": "Admin",
+            "timestamp": "2026-07-03T17:59:54.841Z",
+            "who": "Admin"
+          }
+        ]
+      },
+      {
+        "id": 1783101589058,
+        "pageName": "Users",
+        "issue": "Discussed improvements required for the Users page to ensure all functionalities work without issues.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783101589059,
+        "pageName": "-",
+        "issue": "Reviewed the Roles & Permissions page and verified access control requirements.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783101589060,
+        "pageName": "Settings",
+        "issue": "Evaluated the Settings page for configuration consistency and usability.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783101589061,
+        "pageName": "Profile",
+        "issue": "Reviewed the Profile page and identified minor UI enhancements.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783101589062,
+        "pageName": "Reports",
+        "issue": "Discussed the Reports page and validated data presentation requirements.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783101589063,
+        "pageName": "Notifications",
+        "issue": "Reviewed the Notifications page to ensure proper alert and messaging functionality.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783101589064,
+        "pageName": "-",
+        "issue": "Conducted AI analysis on the application to identify UI inconsistencies, functional gaps, and optimization opportunities.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783101589065,
+        "pageName": "-",
+        "issue": "Planned AI-based testing to validate end-to-end workflows, edge cases, and error handling across all pages.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783101589066,
+        "pageName": "-",
+        "issue": "Discussed responsive design verification for desktop, tablet, and mobile devices.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783101589067,
+        "pageName": "-",
+        "issue": "Reviewed validation rules, API integrations, and performance optimization requirements.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783101589068,
+        "pageName": "-",
+        "issue": "Assigned action items to resolve identified issues and complete pending enhancements before the next review.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783101589069,
+        "pageName": "-",
+        "issue": "Concluded the meeting by confirming the project timeline, deliverables, and the schedule for the next progress review.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      }
+    ],
+    "1783135758325": [
+      {
+        "id": 1783135767692,
+        "pageName": "-",
+        "issue": "Product Quotation Created\nTrigger: When staff issues a new quote to a customer.\nSMS Text:\n\"Hi team, a new Product Quotation #{quoteNumber} has been created and issued to {customerName} for a total of ${total}. Please review the details on the admin panel to track the acceptance status. - Evergreen Farms USA\"",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783135767693,
+        "pageName": "-",
+        "issue": "Product Quotation Approved\nTrigger: When the customer clicks \"Accept\" on their digital quote link.\nSMS Text:\n\"Hi team, this is an update from Evergreen Farms USA. {customerName} has just accepted Product Quotation #{quoteNumber} for a total of ${total}. Invoice #{invoiceId} has been generated and issued. Please review it at admin panel. - Evergreen Farms USA\"",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783135767694,
+        "pageName": "-",
+        "issue": "Product Quotation Partially Paid\nTrigger: When a customer pays a deposit or installment via Stripe.\nSMS Text:\n\"Hi team, we've received a partial payment of ${amount} from {customerName} for Product Quote #{quoteNumber}. There is a remaining balance of ${balance}. Please keep an eye on the admin panel for the finalized payment before proceeding with all items. - Evergreen Farms USA\"",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783135767695,
+        "pageName": "-",
+        "issue": "Product Quotation Fully Paid\nTrigger: When the customer completes the final payment via Stripe.\nSMS Text:\n\"Hi team, great news! {customerName} has just made the full payment of ${amount} for Product Quote #{quoteNumber}. The quotation is now fully paid and finalized. Please check the admin panel to move forward with the scheduled delivery or pickup. - Evergreen Farms USA\"",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783135767696,
+        "pageName": "-",
+        "issue": "Product Quotation Question Received\nTrigger: When a customer uses the \"Have Questions\" link instead of accepting.\nSMS Text:\n\"Hi team, a customer ({customerName}) has just submitted a query for Product Quote #{quoteNumber}. They have a question instead of accepting. Please review the query on the admin panel to answer them and convert the sale. - Evergreen Farms USA\"",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783135767697,
+        "pageName": "-",
+        "issue": "Product Quotation Cancelled\nTrigger: When a staff member manually cancels the quote or invoice.\nSMS Text:\n\"Hi team, Product Quotation #{quoteNumber} for {customerName} has just been cancelled. Please review the admin panel to ensure all pending fulfillment (delivery/pickup) and billing are correctly finalized. - Evergreen Farms USA\"\nMinutes of Meeting (MoM)\nDate: ____________________\nTime: ____________________\nAttendees: ____________________",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783135767698,
+        "pageName": "Dashboard",
+        "issue": "Reviewed the Dashboard page and confirmed the overall layout and navigation flow.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783135767699,
+        "pageName": "Users",
+        "issue": "Discussed improvements required for the Users page to ensure all functionalities work without issues.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783135767700,
+        "pageName": "-",
+        "issue": "Reviewed the Roles & Permissions page and verified access control requirements.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783135767701,
+        "pageName": "Settings",
+        "issue": "Evaluated the Settings page for configuration consistency and usability.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783135767702,
+        "pageName": "Profile",
+        "issue": "Reviewed the Profile page and identified minor UI enhancements.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783135767703,
+        "pageName": "Reports",
+        "issue": "Discussed the Reports page and validated data presentation requirements.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783135767704,
+        "pageName": "Notifications",
+        "issue": "Reviewed the Notifications page to ensure proper alert and messaging functionality.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783135767705,
+        "pageName": "-",
+        "issue": "Conducted AI analysis on the application to identify UI inconsistencies, functional gaps, and optimization opportunities.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783135767706,
+        "pageName": "-",
+        "issue": "Planned AI-based testing to validate end-to-end workflows, edge cases, and error handling across all pages.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783135767707,
+        "pageName": "-",
+        "issue": "Discussed responsive design verification for desktop, tablet, and mobile devices.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783135767708,
+        "pageName": "-",
+        "issue": "Reviewed validation rules, API integrations, and performance optimization requirements.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783135767709,
+        "pageName": "-",
+        "issue": "Assigned action items to resolve identified issues and complete pending enhancements before the next review.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783135767710,
+        "pageName": "-",
+        "issue": "Concluded the meeting by confirming the project timeline, deliverables, and the schedule for the next progress review.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      }
+    ],
+    "1783136095676": [
+      {
+        "id": 1783136095711,
+        "pageName": "Dashboard",
+        "issue": "Reviewed the Dashboard page and confirmed the overall layout and navigation flow.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783136095712,
+        "pageName": "Users",
+        "issue": "Discussed improvements required for the Users page to ensure all functionalities work without issues.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783136095713,
+        "pageName": "-",
+        "issue": "Reviewed the Roles & Permissions page and verified access control requirements.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783136095714,
+        "pageName": "Settings",
+        "issue": "Evaluated the Settings page for configuration consistency and usability.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783136095715,
+        "pageName": "Profile",
+        "issue": "Reviewed the Profile page and identified minor UI enhancements.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783136095716,
+        "pageName": "Reports",
+        "issue": "Discussed the Reports page and validated data presentation requirements.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783136095717,
+        "pageName": "Notifications",
+        "issue": "Reviewed the Notifications page to ensure proper alert and messaging functionality.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783136095718,
+        "pageName": "-",
+        "issue": "Conducted AI analysis on the application to identify UI inconsistencies, functional gaps, and optimization opportunities.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783136095719,
+        "pageName": "-",
+        "issue": "Planned AI-based testing to validate end-to-end workflows, edge cases, and error handling across all pages.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783136095720,
+        "pageName": "-",
+        "issue": "Discussed responsive design verification for desktop, tablet, and mobile devices.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783136095721,
+        "pageName": "-",
+        "issue": "Reviewed validation rules, API integrations, and performance optimization requirements.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783136095722,
+        "pageName": "-",
+        "issue": "Assigned action items to resolve identified issues and complete pending enhancements before the next review.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783136095723,
+        "pageName": "-",
+        "issue": "Concluded the meeting by confirming the project timeline, deliverables, and the schedule for the next progress review.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      }
+    ],
+    "1783136767146": [
+      {
+        "id": 1783136767169,
+        "pageName": "AI Analysis Testing",
+        "issue": "Project objectives and scope of the AI Analysis Testing module.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783136767170,
+        "pageName": "AI mODULE",
+        "issue": "Review of application analysis workflow and expected outputs.",
+        "status": "Staging Deployment",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": "",
+        "history": [
+          {
+            "field": "status",
+            "oldValue": "Open",
+            "newValue": "In Progress",
+            "timestamp": "2026-07-04T03:46:52.468Z",
+            "who": "Admin"
+          },
+          {
+            "field": "status",
+            "oldValue": "In Progress",
+            "newValue": "Staging Deployment",
+            "timestamp": "2026-07-04T04:04:52.286Z",
+            "who": "Admin"
+          },
+          {
+            "field": "pageName",
+            "oldValue": "-",
+            "newValue": "",
+            "timestamp": "2026-07-04T04:18:08.156Z",
+            "who": "Admin"
+          },
+          {
+            "field": "pageName",
+            "oldValue": "",
+            "newValue": "A",
+            "timestamp": "2026-07-04T04:18:08.705Z",
+            "who": "Admin"
+          },
+          {
+            "field": "pageName",
+            "oldValue": "A",
+            "newValue": "AI",
+            "timestamp": "2026-07-04T04:18:09.285Z",
+            "who": "Admin"
+          },
+          {
+            "field": "pageName",
+            "oldValue": "AI",
+            "newValue": "AI ",
+            "timestamp": "2026-07-04T04:18:10.366Z",
+            "who": "Admin"
+          },
+          {
+            "field": "pageName",
+            "oldValue": "AI ",
+            "newValue": "AI m",
+            "timestamp": "2026-07-04T04:18:10.991Z",
+            "who": "Admin"
+          },
+          {
+            "field": "pageName",
+            "oldValue": "AI m",
+            "newValue": "AI mO",
+            "timestamp": "2026-07-04T04:18:11.344Z",
+            "who": "Admin"
+          },
+          {
+            "field": "pageName",
+            "oldValue": "AI mO",
+            "newValue": "AI mOD",
+            "timestamp": "2026-07-04T04:18:11.510Z",
+            "who": "Admin"
+          },
+          {
+            "field": "pageName",
+            "oldValue": "AI mOD",
+            "newValue": "AI mODU",
+            "timestamp": "2026-07-04T04:18:11.654Z",
+            "who": "Admin"
+          },
+          {
+            "field": "pageName",
+            "oldValue": "AI mODU",
+            "newValue": "AI mODUL",
+            "timestamp": "2026-07-04T04:18:11.870Z",
+            "who": "Admin"
+          },
+          {
+            "field": "pageName",
+            "oldValue": "AI mODUL",
+            "newValue": "AI mODULE",
+            "timestamp": "2026-07-04T04:18:12.030Z",
+            "who": "Admin"
+          }
+        ]
+      },
+      {
+        "id": 1783136767171,
+        "pageName": "-",
+        "issue": "Supported input methods (URL, credentials, documents, text).",
+        "status": "Production Deployed",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": "",
+        "history": [
+          {
+            "field": "status",
+            "oldValue": "Open",
+            "newValue": "In Progress",
+            "timestamp": "2026-07-04T03:46:54.710Z",
+            "who": "Admin"
+          },
+          {
+            "field": "status",
+            "oldValue": "In Progress",
+            "newValue": "Production Deployed",
+            "timestamp": "2026-07-04T04:05:04.471Z",
+            "who": "Admin"
+          }
+        ]
+      },
+      {
+        "id": 1783136767172,
+        "pageName": "-",
+        "issue": "AI-powered application flow discovery and navigation mapping.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783136767173,
+        "pageName": "Functional",
+        "issue": "Functional module identification and categorization.",
+        "status": "Closed",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": "",
+        "history": [
+          {
+            "field": "status",
+            "oldValue": "Open",
+            "newValue": "Closed",
+            "timestamp": "2026-07-04T03:46:59.105Z",
+            "who": "Admin"
+          }
+        ]
+      },
+      {
+        "id": 1783136767174,
+        "pageName": "-",
+        "issue": "Automatic requirement extraction from analyzed applications.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783136767175,
+        "pageName": "-",
+        "issue": "User role detection and access-level analysis.",
+        "status": "Closed",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": "",
+        "history": [
+          {
+            "field": "status",
+            "oldValue": "Open",
+            "newValue": "Closed",
+            "timestamp": "2026-07-04T03:47:02.031Z",
+            "who": "Admin"
+          }
+        ]
+      },
+      {
+        "id": 1783136767176,
+        "pageName": "-",
+        "issue": "Business rule identification and validation.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783136767177,
+        "pageName": "-",
+        "issue": "Test scenario generation strategy (Smoke, Sanity, Regression, End-to-End).",
+        "status": "Closed",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": "",
+        "history": [
+          {
+            "field": "status",
+            "oldValue": "Open",
+            "newValue": "Closed",
+            "timestamp": "2026-07-04T03:47:04.888Z",
+            "who": "Admin"
+          }
+        ]
+      },
+      {
+        "id": 1783136767178,
+        "pageName": "-",
+        "issue": "Automatic test case generation with priority and traceability.",
+        "status": "Closed",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": "",
+        "history": [
+          {
+            "field": "status",
+            "oldValue": "Open",
+            "newValue": "Closed",
+            "timestamp": "2026-07-04T03:47:07.452Z",
+            "who": "Admin"
+          }
+        ]
+      },
+      {
+        "id": 1783136767179,
+        "pageName": "-",
+        "issue": "Risk analysis and critical path identification.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783136767180,
+        "pageName": "-",
+        "issue": "UI/UX consistency checks and accessibility validation.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783136767181,
+        "pageName": "-",
+        "issue": "API endpoint discovery and integration analysis.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783136767182,
+        "pageName": "-",
+        "issue": "Defect prediction, duplicate issue detection, and recommendations.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783136767183,
+        "pageName": "-",
+        "issue": "Export options for analysis reports, requirements, and test cases (PDF/Excel).",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783136767184,
+        "pageName": "-",
+        "issue": "Action items, owners, timelines, and next meeting schedule.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      }
+    ],
+    "1783246757504": [
+      {
+        "id": 1783246757660,
+        "pageName": "Dashboard",
+        "issue": "Reviewed the Dashboard page and confirmed the overall layout and navigation flow.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783246757661,
+        "pageName": "Users",
+        "issue": "Discussed improvements required for the Users page to ensure all functionalities work without issues.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783246757662,
+        "pageName": "-",
+        "issue": "Reviewed the Roles & Permissions page and verified access control requirements.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783246757663,
+        "pageName": "Settings",
+        "issue": "Evaluated the Settings page for configuration consistency and usability.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783246757664,
+        "pageName": "Profile",
+        "issue": "Reviewed the Profile page and identified minor UI enhancements.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783246757665,
+        "pageName": "Reports",
+        "issue": "Discussed the Reports page and validated data presentation requirements.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783246757666,
+        "pageName": "Notifications",
+        "issue": "Reviewed the Notifications page to ensure proper alert and messaging functionality.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783246757667,
+        "pageName": "-",
+        "issue": "Conducted AI analysis on the application to identify UI inconsistencies, functional gaps, and optimization opportunities.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783246757668,
+        "pageName": "-",
+        "issue": "Planned AI-based testing to validate end-to-end workflows, edge cases, and error handling across all pages.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783246757669,
+        "pageName": "-",
+        "issue": "Discussed responsive design verification for desktop, tablet, and mobile devices.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783246757670,
+        "pageName": "-",
+        "issue": "Reviewed validation rules, API integrations, and performance optimization requirements.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783246757671,
+        "pageName": "-",
+        "issue": "Assigned action items to resolve identified issues and complete pending enhancements before the next review.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783246757672,
+        "pageName": "-",
+        "issue": "Concluded the meeting by confirming the project timeline, deliverables, and the schedule for the next progress review.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      }
+    ],
+    "1783261218550": [
+      {
+        "id": 1783261218589,
+        "pageName": "",
+        "issue": "",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      }
+    ],
+    "1783261440886": [
+      {
+        "id": 1783261440980,
+        "pageName": "Dashboard",
+        "issue": "Reviewed the Dashboard page and confirmed the overall layout and navigation flow.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783261440982,
+        "pageName": "Users",
+        "issue": "Discussed improvements required for the Users page to ensure all functionalities work without issues.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783261440983,
+        "pageName": "-",
+        "issue": "Reviewed the Roles & Permissions page and verified access control requirements.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783261440984,
+        "pageName": "Settings",
+        "issue": "Evaluated the Settings page for configuration consistency and usability.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783261440985,
+        "pageName": "Profile",
+        "issue": "Reviewed the Profile page and identified minor UI enhancements.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783261440986,
+        "pageName": "Reports",
+        "issue": "Discussed the Reports page and validated data presentation requirements.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783261440987,
+        "pageName": "Notifications",
+        "issue": "Reviewed the Notifications page to ensure proper alert and messaging functionality.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783261440988,
+        "pageName": "-",
+        "issue": "Conducted AI analysis on the application to identify UI inconsistencies, functional gaps, and optimization opportunities.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783261440989,
+        "pageName": "-",
+        "issue": "Planned AI-based testing to validate end-to-end workflows, edge cases, and error handling across all pages.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783261440990,
+        "pageName": "-",
+        "issue": "Discussed responsive design verification for desktop, tablet, and mobile devices.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783261440991,
+        "pageName": "-",
+        "issue": "Reviewed validation rules, API integrations, and performance optimization requirements.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783261440992,
+        "pageName": "-",
+        "issue": "Assigned action items to resolve identified issues and complete pending enhancements before the next review.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783261440993,
+        "pageName": "-",
+        "issue": "Concluded the meeting by confirming the project timeline, deliverables, and the schedule for the next progress review.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      }
+    ],
+    "1783261529231": [
+      {
+        "id": 1783261529338,
+        "pageName": "Dashboard",
+        "issue": "Reviewed the Dashboard page and confirmed the overall layout and navigation flow.",
+        "status": "In Progress",
+        "assignee": "",
+        "stagingDate": "2026-07-04",
+        "prodDate": "",
+        "history": [
+          {
+            "field": "stagingDate",
+            "oldValue": "",
+            "newValue": "2026-07-04",
+            "timestamp": "2026-07-05T14:35:19.425Z",
+            "who": "Admin"
+          },
+          {
+            "field": "assignee",
+            "oldValue": "",
+            "newValue": "Admin",
+            "timestamp": "2026-07-05T15:12:14.888Z",
+            "who": "Admin"
+          },
+          {
+            "field": "status",
+            "oldValue": "Open",
+            "newValue": "In Progress",
+            "timestamp": "2026-07-05T15:13:23.234Z",
+            "who": "Admin"
+          },
+          {
+            "field": "status",
+            "oldValue": "In Progress",
+            "newValue": "Closed",
+            "timestamp": "2026-07-05T15:13:26.732Z",
+            "who": "Admin"
+          },
+          {
+            "field": "status",
+            "oldValue": "Closed",
+            "newValue": "Production Deployed",
+            "timestamp": "2026-07-05T15:13:29.549Z",
+            "who": "Admin"
+          },
+          {
+            "field": "status",
+            "oldValue": "Production Deployed",
+            "newValue": "In Progress",
+            "timestamp": "2026-07-05T15:17:27.632Z",
+            "who": "Admin"
+          },
+          {
+            "field": "status",
+            "oldValue": "In Progress",
+            "newValue": "Closed",
+            "timestamp": "2026-07-05T15:17:30.381Z",
+            "who": "Admin"
+          },
+          {
+            "field": "status",
+            "oldValue": "Closed",
+            "newValue": "In Progress",
+            "timestamp": "2026-07-05T15:22:18.812Z",
+            "who": "Admin"
+          },
+          {
+            "field": "assignee",
+            "oldValue": "Admin",
+            "newValue": "",
+            "timestamp": "2026-07-05T15:23:12.640Z",
+            "who": "Admin"
+          }
+        ]
+      },
+      {
+        "id": 1783261529339,
+        "pageName": "Users",
+        "issue": "Discussed improvements required for the Users page to ensure all functionalities work without issues.",
+        "status": "In Progress",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": "",
+        "history": [
+          {
+            "field": "status",
+            "oldValue": "Open",
+            "newValue": "In Progress",
+            "timestamp": "2026-07-05T15:27:54.772Z",
+            "who": "Admin"
+          }
+        ]
+      },
+      {
+        "id": 1783261529340,
+        "pageName": "-",
+        "issue": "Reviewed the Roles & Permissions page and verified access control requirements.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783261529341,
+        "pageName": "Settings",
+        "issue": "Evaluated the Settings page for configuration consistency and usability.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783261529342,
+        "pageName": "Profile",
+        "issue": "Reviewed the Profile page and identified minor UI enhancements.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783261529343,
+        "pageName": "Reports",
+        "issue": "Discussed the Reports page and validated data presentation requirements.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783261529344,
+        "pageName": "Notifications",
+        "issue": "Reviewed the Notifications page to ensure proper alert and messaging functionality.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783261529345,
+        "pageName": "-",
+        "issue": "Conducted AI analysis on the application to identify UI inconsistencies, functional gaps, and optimization opportunities.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783261529346,
+        "pageName": "-",
+        "issue": "Planned AI-based testing to validate end-to-end workflows, edge cases, and error handling across all pages.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783261529347,
+        "pageName": "-",
+        "issue": "Discussed responsive design verification for desktop, tablet, and mobile devices.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783261529348,
+        "pageName": "-",
+        "issue": "Reviewed validation rules, API integrations, and performance optimization requirements.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783261529349,
+        "pageName": "-",
+        "issue": "Assigned action items to resolve identified issues and complete pending enhancements before the next review.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      },
+      {
+        "id": 1783261529350,
+        "pageName": "-",
+        "issue": "Concluded the meeting by confirming the project timeline, deliverables, and the schedule for the next progress review.",
+        "status": "Open",
+        "assignee": "",
+        "stagingDate": "",
+        "prodDate": ""
+      }
+    ]
+  },
+  "customColumns": {
+    "col1": "Page Name",
+    "col2": "Issue / Point",
+    "col3": "Status",
+    "col4": "Assignee",
+    "col5": "Staging Deployment",
+    "col6": "Production Deployment"
+  },
+  "customStatuses": [
+    {
+      "name": "Open",
+      "color": "#f8ab37"
+    },
+    {
+      "name": "In Progress",
+      "color": "#3b82f6"
+    },
+    {
+      "name": "Staging Deployment",
+      "color": "#a855f7"
+    },
+    {
+      "name": "Closed",
+      "color": "#22c55e"
+    },
+    {
+      "name": "Production Deployed",
+      "color": "#06b6d4"
+    }
+  ]
+}

@@ -1,0 +1,676 @@
+[
+  {
+    "id": "PI-0018",
+    "pageName": "General",
+    "issue": "In the logonpage add background image is this\n\nIn the logonpage add background image is this",
+    "status": "Open",
+    "assignee": "",
+    "deployDate": "-",
+    "raisedDate": "04 Jul 2026, 13:13",
+    "raisedSrc": "via WhatsApp",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "wa_1783151002062.jpeg",
+        "url": "/uploads/production-issues/images/wa_1783151002062.jpeg"
+      }
+    ],
+    "history": [
+      {
+        "date": "04/07/2026, 13:13:22",
+        "action": "Issue created via WhatsApp message from mahanandasaikotra318.",
+        "user": "System"
+      }
+    ],
+    "priority": "Medium",
+    "duplicateCount": 0,
+    "logs": []
+  },
+  {
+    "id": "PI-0017",
+    "pageName": "General",
+    "issue": "📄 *New Document Generated*\n\n*Name:* Test\n*Type...\n\n📄 *New Document Generated*\n\n*Name:* Test\n*Type:* Test\n*Generated:* Now\n\n_Please check the portal for details._",
+    "status": "Open",
+    "assignee": "",
+    "deployDate": "-",
+    "raisedDate": "04 Jul 2026, 12:23",
+    "raisedSrc": "via WhatsApp",
+    "attachments": [
+      {
+        "type": "document",
+        "name": "wa_1783150868238.pdf",
+        "url": "/uploads/production-issues/documents/wa_1783150868238.pdf"
+      },
+      {
+        "type": "document",
+        "name": "wa_1783150871065.pdf",
+        "url": "/uploads/production-issues/documents/wa_1783150871065.pdf"
+      },
+      {
+        "type": "document",
+        "name": "wa_1783151175486.pdf",
+        "url": "/uploads/production-issues/documents/wa_1783151175486.pdf"
+      },
+      {
+        "type": "document",
+        "name": "wa_1783151384229.pdf",
+        "url": "/uploads/production-issues/documents/wa_1783151384229.pdf"
+      },
+      {
+        "type": "document",
+        "name": "wa_1783151610692.pdf",
+        "url": "/uploads/production-issues/documents/wa_1783151610692.pdf"
+      }
+    ],
+    "history": [
+      {
+        "date": "04/07/2026, 12:23:52",
+        "action": "Issue created via WhatsApp message from mahanandasaikotra318.",
+        "user": "System"
+      },
+      {
+        "date": "04/07/2026, 12:24:55",
+        "action": "Duplicate issue detected from WhatsApp. Message from mahanandasaikotra318.",
+        "user": "System"
+      },
+      {
+        "date": "04/07/2026, 13:08:59",
+        "action": "Duplicate issue detected from WhatsApp. Message from mahanandasaikotra318.",
+        "user": "System"
+      },
+      {
+        "date": "04/07/2026, 13:11:08",
+        "action": "Duplicate issue detected from WhatsApp. Message from mahanandasaikotra318.",
+        "user": "System"
+      },
+      {
+        "date": "04/07/2026, 13:11:11",
+        "action": "Duplicate issue detected from WhatsApp. Message from mahanandasaikotra318.",
+        "user": "System"
+      },
+      {
+        "date": "04/07/2026, 13:16:15",
+        "action": "Duplicate issue detected from WhatsApp. Message from mahanandasaikotra318.",
+        "user": "System"
+      },
+      {
+        "date": "04/07/2026, 13:19:44",
+        "action": "Duplicate issue detected from WhatsApp. Message from mahanandasaikotra318.",
+        "user": "System"
+      },
+      {
+        "date": "04/07/2026, 13:23:30",
+        "action": "Duplicate issue detected from WhatsApp. Message from mahanandasaikotra318.",
+        "user": "System"
+      },
+      {
+        "field": "status",
+        "oldValue": "Open",
+        "newValue": "Future Implementation",
+        "timestamp": "2026-07-05T17:10:15.330Z",
+        "who": "Admin"
+      },
+      {
+        "field": "status",
+        "oldValue": "Future Implementation",
+        "newValue": "Closed",
+        "timestamp": "2026-07-05T17:10:17.805Z",
+        "who": "Admin"
+      },
+      {
+        "field": "status",
+        "oldValue": "Closed",
+        "newValue": "Open",
+        "timestamp": "2026-07-05T17:10:19.955Z",
+        "who": "Admin"
+      }
+    ],
+    "priority": "Medium",
+    "duplicateCount": 7,
+    "logs": [],
+    "movedToRequirement": true
+  },
+  {
+    "id": "PI-0016",
+    "pageName": "Hai...",
+    "issue": "hai",
+    "status": "Open",
+    "assignee": "",
+    "deployDate": "-",
+    "raisedDate": "04 Jul 2026, 10:16 AM",
+    "raisedSrc": "Manual Entry",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "ChatGPT Image Jun 28, 2026, 10_13_43 AM.png",
+        "url": "/uploads/files-1783140389490-803278708.png"
+      }
+    ],
+    "history": [],
+    "priority": "Medium",
+    "duplicateCount": 0,
+    "logs": []
+  },
+  {
+    "id": "PI-0015",
+    "pageName": "General",
+    "issue": "🚨 *New QA Issue*\n\n*Page:* General\n\n*Details:*\n...\n\n🚨 *New QA Issue*\n\n*Page:* General\n\n*Details:*\ngroup changes",
+    "status": "Closed",
+    "assignee": "Admin",
+    "deployDate": "04 Jul 2026",
+    "raisedDate": "07 Jun 2026, 00:47",
+    "raisedSrc": "via WhatsApp",
+    "attachments": [],
+    "history": [
+      {
+        "date": "07/06/2026, 00:47:43",
+        "action": "Issue created via WhatsApp message from mahanandasaikotra318.",
+        "user": "System"
+      },
+      {
+        "field": "status",
+        "oldValue": "Open",
+        "newValue": "Pending",
+        "timestamp": "2026-06-15T15:26:04.892Z",
+        "who": "Admin"
+      },
+      {
+        "field": "status",
+        "oldValue": "Pending",
+        "newValue": "Closed",
+        "timestamp": "2026-06-15T15:26:07.668Z",
+        "who": "Admin"
+      },
+      {
+        "field": "deployDate",
+        "oldValue": "-",
+        "newValue": "17 Jun 2026",
+        "timestamp": "2026-06-15T15:29:48.967Z",
+        "who": "Admin"
+      },
+      {
+        "field": "assignee",
+        "oldValue": "",
+        "newValue": "Admin",
+        "timestamp": "2026-07-04T04:27:51.858Z",
+        "who": "Admin"
+      },
+      {
+        "field": "deployDate",
+        "oldValue": "17 Jun 2026",
+        "newValue": "04 Jul 2026",
+        "timestamp": "2026-07-04T04:27:55.722Z",
+        "who": "Admin"
+      },
+      {
+        "field": "assignee",
+        "oldValue": "Admin",
+        "newValue": "Admin",
+        "timestamp": "2026-07-04T04:40:12.311Z",
+        "who": "Admin"
+      }
+    ],
+    "priority": "High",
+    "duplicateCount": 0,
+    "logs": []
+  },
+  {
+    "id": "PI-0014",
+    "pageName": "General",
+    "issue": "Update main production release document we go t...\n\nUpdate main production release document we go to peddi movie",
+    "status": "Open",
+    "assignee": "Admin",
+    "deployDate": "01 Jul 2026",
+    "raisedDate": "06 Jun 2026, 20:40",
+    "raisedSrc": "via WhatsApp",
+    "attachments": [],
+    "history": [
+      {
+        "date": "06/06/2026, 20:40:41",
+        "action": "Issue created via WhatsApp message from mahanandasaikotra318.",
+        "user": "System"
+      },
+      {
+        "field": "assignee",
+        "oldValue": "",
+        "newValue": "Admin",
+        "timestamp": "2026-07-04T04:43:20.913Z",
+        "who": "Admin"
+      },
+      {
+        "field": "deployDate",
+        "oldValue": "-",
+        "newValue": "01 Jul 2026",
+        "timestamp": "2026-07-04T04:43:25.562Z",
+        "who": "Admin"
+      }
+    ],
+    "priority": "Medium",
+    "duplicateCount": 0,
+    "logs": []
+  },
+  {
+    "id": "PI-0013",
+    "pageName": "General",
+    "issue": "I am mahananda sai\n\nI am mahananda sai",
+    "status": "Pending",
+    "assignee": "",
+    "deployDate": "-",
+    "raisedDate": "06 Jun 2026, 13:10",
+    "raisedSrc": "via WhatsApp",
+    "attachments": [],
+    "history": [
+      {
+        "date": "06/06/2026, 13:10:51",
+        "action": "Issue created via WhatsApp message from \"Maha..😊\".",
+        "user": "System"
+      },
+      {
+        "field": "status",
+        "oldValue": "Open",
+        "newValue": "Pending",
+        "timestamp": "2026-07-04T04:43:31.175Z",
+        "who": "Admin"
+      }
+    ],
+    "priority": "Medium",
+    "duplicateCount": 0,
+    "logs": []
+  },
+  {
+    "id": "PI-0012",
+    "pageName": "General",
+    "issue": "Hai test the issue \nWhatsapp page \n[OCR Text fr...\n\nHai test the issue \nWhatsapp page \n[OCR Text from Image]: aluminum gates ($40.00)\n0065116312",
+    "status": "In Progress",
+    "assignee": "",
+    "deployDate": "-",
+    "raisedDate": "06 Jun 2026, 13:10",
+    "raisedSrc": "via WhatsApp",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "wa_1780731609602.jpeg",
+        "url": "/uploads/production-issues/images/wa_1780731609602.jpeg"
+      }
+    ],
+    "history": [
+      {
+        "date": "06/06/2026, 13:10:11",
+        "action": "Issue created via WhatsApp message from mahanandasaikotra318.",
+        "user": "System"
+      },
+      {
+        "date": "06/06/2026, 13:10:37",
+        "action": "Duplicate issue detected from WhatsApp. Message from \"Maha..😊\".",
+        "user": "System"
+      },
+      {
+        "date": "06/06/2026, 13:11:01",
+        "action": "Duplicate issue detected from WhatsApp. Message from \"Maha..😊\".",
+        "user": "System"
+      },
+      {
+        "field": "status",
+        "oldValue": "Open",
+        "newValue": "In Progress",
+        "timestamp": "2026-07-04T04:43:34.627Z",
+        "who": "Admin"
+      }
+    ],
+    "priority": "High",
+    "duplicateCount": 2,
+    "logs": []
+  },
+  {
+    "id": "PI-0011",
+    "pageName": "General",
+    "issue": "SEE  the tax now it is showing large tax  value...\n\nSEE  the tax now it is showing large tax  value \n[OCR Text from Image]: Myth 4 Home About Menu TableBooking ~~ Gallery Contact Support * wm.\nChicken 65 Biryani [®] Chicken Dum Biryani [©] Chilli GarlicNaan [9] ©) Cart Summary\n$15.99 $15.99 $4.49 «oo\n‘Samosa Veg - 2pcs. $7.88 0}\n12x$599\nIce cream [OQ] Mirchi Bajji-4PCS  [¢] Onion Pakeda (® T— Soe. @\n$1.00 $7.99 oD $7.99 lo) Tx$400\n= ‘Samosa Onion -6PCS.\nOTR. 8 N Tx$1299 sw289 ©\nSambar [O] Samosa Onion -6PCS [0] Samosa Veg - 2pcs (¢)\n$1.00 $12.99 -1@ $5.99 20 Subtotal $258.77\n\\ A 4 Tox $17.4\nSweet corn Veg Soup [©] Vijayawada [O] sampleProduct 0]\n$7.99 Punuguly $100.00 oo Order Total $275.91\n$4.00 -1@®\nSubmit Catering Order\nwater bottle [0] Andhra Chicken 0] Andhra Lamb Curry [o] [© soe > ]\n410.00 Curry Bone-In Bonelss",
+    "status": "Closed",
+    "assignee": "",
+    "deployDate": "-",
+    "raisedDate": "04 Jul 2026, 09:56 AM",
+    "raisedSrc": "via WhatsApp",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "wa_1780721667897.jpeg",
+        "url": "/uploads/production-issues/images/wa_1780721667897.jpeg"
+      }
+    ],
+    "history": [
+      {
+        "date": "06/06/2026, 10:24:30",
+        "action": "Issue created via WhatsApp message from \"Maha..😊\".",
+        "user": "System"
+      },
+      {
+        "field": "raisedDate",
+        "oldValue": "06 Jun 2026, 10:24",
+        "newValue": "04 Jul 2026, 09:56 AM",
+        "timestamp": "2026-07-04T04:26:59.958Z",
+        "who": "Admin"
+      },
+      {
+        "field": "status",
+        "oldValue": "Open",
+        "newValue": "Closed",
+        "timestamp": "2026-07-04T04:43:38.425Z",
+        "who": "Admin"
+      }
+    ],
+    "priority": "Medium",
+    "duplicateCount": 0,
+    "logs": []
+  },
+  {
+    "id": "PI-0010",
+    "pageName": "General",
+    "issue": "Media upload without text\n\nMedia upload without text",
+    "status": "Open",
+    "assignee": "",
+    "deployDate": "-",
+    "raisedDate": "06 Jun 2026, 10:23",
+    "raisedSrc": "via WhatsApp",
+    "attachments": [
+      {
+        "type": "video",
+        "name": "wa_1780721603604.mp4",
+        "url": "/uploads/production-issues/videos/wa_1780721603604.mp4"
+      },
+      {
+        "type": "video",
+        "name": "wa_1780758681979.mp4",
+        "url": "/uploads/production-issues/videos/wa_1780758681979.mp4"
+      },
+      {
+        "type": "video",
+        "name": "wa_1780759039022.mp4",
+        "url": "/uploads/production-issues/videos/wa_1780759039022.mp4"
+      }
+    ],
+    "history": [
+      {
+        "date": "06/06/2026, 10:23:23",
+        "action": "Issue created via WhatsApp message from \"Maha..😊\".",
+        "user": "System"
+      },
+      {
+        "date": "06/06/2026, 20:41:21",
+        "action": "Duplicate issue detected from WhatsApp. Message from mahanandasaikotra318.",
+        "user": "System"
+      },
+      {
+        "date": "06/06/2026, 20:47:19",
+        "action": "Duplicate issue detected from WhatsApp. Message from mahanandasaikotra318.",
+        "user": "System"
+      }
+    ],
+    "priority": "Medium",
+    "duplicateCount": 2,
+    "logs": []
+  },
+  {
+    "id": "PI-0009",
+    "pageName": "General",
+    "issue": "Why are we getting AFC logo on the email? \n[OCR...\n\nWhy are we getting AFC logo on the email? \n[OCR Text from Image]: 7:25 wil 56+\n< 8 0 & -\nNew Enquiry Received from\n\nSIT€& Inbox Ww\ndis Evergreen Harms... 3:12AM ® “ coe\nor to contact v\nNOLTE BH\nEvergreen\nFARMS =~\nHello Admin,\nA new enquiry has been\nsubmitted through the website.\nHere are the details:\nName: rajesh\nmajji\nEmail: —\n“a «Reply all ~> Forward ®@",
+    "status": "Open",
+    "assignee": "",
+    "deployDate": "-",
+    "raisedDate": "06 Jun 2026, 10:23",
+    "raisedSrc": "via WhatsApp",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "wa_1780721600911.jpeg",
+        "url": "/uploads/production-issues/images/wa_1780721600911.jpeg"
+      }
+    ],
+    "history": [
+      {
+        "date": "06/06/2026, 10:23:22",
+        "action": "Issue created via WhatsApp message from \"Maha..😊\".",
+        "user": "System"
+      }
+    ],
+    "priority": "Medium",
+    "duplicateCount": 0,
+    "logs": []
+  },
+  {
+    "id": "PI-0008",
+    "pageName": "POS",
+    "issue": "1. Reqired deposite type(% / $) and percentage ...\n\n1. Reqired deposite type(% / $) and percentage value if percentege need to store\n2. After edit final invoice quotaion values not updating properly\n3. I created entry for combination of fence and products only service, while handling both fence and products only service in request , i removed one service and changed the enquiry status to partially converted but the status is changing to converted??\n4. i did cash payment in invoice , error raised and payment done\n@242064491061452 \n@145208582889655 \n[OCR Text from Image]: pr 3 Nexzen Bn + - 5 «\n. } © localhost i Xr BOG § BR &n :\nPT we S1PRA p A ner 7 Logi : - a Learning ® 3 x\nPayment details for Jeji phn email X\na\nC:\\Users\\Lenovo\\Downloads\\Afc_backend\\src\\views\\emails\\jobComplete.e\n66] </p> 67] >> 68] <% if (JobCompletionNotes) { %> 69] <div\nstyle=\"background-color: #f9fafb; padding: 15px; border-left: 4px solid\n#71c200; margin: 20px 0; border-radius: 4px;\"> 70] <strong style=\"color:\n#2b2b2b; font-size: 14px; text-transform: uppercase; letter-spacing:\n0.5px;\">Completion Notes:</strong><br /> 71] <div style=\"margin-top:\nSpx; color: #4b5563; font-size: 15px;\"><%= jobCompletionNotes %></div>\njobCompletionNotes is not defined\n ———————————————————————\nPayment Type\n@® Full Remaining ($1096.52) O Partial\n| © casn . |\n£7 Fach naumant will ha nraracead immadiatal A einrace natifinatinn will sd\nPAY NOW",
+    "status": "Open",
+    "assignee": "",
+    "deployDate": "-",
+    "raisedDate": "06 Jun 2026, 10:21",
+    "raisedSrc": "via WhatsApp",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "wa_1780721515396.jpeg",
+        "url": "/uploads/production-issues/images/wa_1780721515396.jpeg"
+      }
+    ],
+    "history": [
+      {
+        "date": "06/06/2026, 10:21:57",
+        "action": "Issue created via WhatsApp message from Sravani R.",
+        "user": "System"
+      }
+    ],
+    "priority": "Medium",
+    "duplicateCount": 0,
+    "logs": []
+  },
+  {
+    "id": "PI-0007",
+    "pageName": "POS",
+    "issue": "[OCR Text from Image]: Payment Schedule x\nVALUE...\n\n[OCR Text from Image]: Payment Schedule x\nVALUE DESCRIPTION AMOUNT (5)\n[ 50 J[* = | Payment 1 | | Required Deposit | ( Paid 0.00\n[1115200 I 5 - | Payment? Paid 1,115.29\n[3222 |[s ~ | | Payment3 | (Paia 3,248.82\nInvoice Total (5) 4,364.10\nScheduled (5) 4368.11\nRemaining (5) 0.00\n| (EE",
+    "status": "Open",
+    "assignee": "",
+    "deployDate": "-",
+    "raisedDate": "06 Jun 2026, 10:21",
+    "raisedSrc": "via WhatsApp",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "wa_1780721515911.jpeg",
+        "url": "/uploads/production-issues/images/wa_1780721515911.jpeg"
+      }
+    ],
+    "history": [
+      {
+        "date": "06/06/2026, 10:21:56",
+        "action": "Issue created via WhatsApp message from Sravani R.",
+        "user": "System"
+      }
+    ],
+    "priority": "Medium",
+    "duplicateCount": 0,
+    "logs": []
+  },
+  {
+    "id": "PI-0006",
+    "pageName": "General",
+    "issue": "[OCR Text from Image]: © % shop.egfnexshop.ai/e...\n\n[OCR Text from Image]: © % shop.egfnexshop.ai/evergreen/evergreenfarms/preorder-pickup-delivery/CA0526-0731_6177type=both&standalone=1 x) OL =\n= Signin\nEvergreen 2 Recount\n[1]\nDelicious Mangoes YW o< om\n© Choose Pickup Location 2lecations available\nThi sloton apples to al pockets in your cat\n© SE\nCeloe]z02 aco 00m Geloal202 500 mt- nO\nJ A\nps f\n,\nI pe\nBanginapalli Mango 4Kgs Rasaalu Mango Himayath Mango - 4Kgs\n$55.00\n$58.00 $65.00\nOnly left\nC= =) worst\nser\nre BQ sen yy uoBuoeeaUa:En + F Gem Som",
+    "status": "Open",
+    "assignee": "Ravi Kumar",
+    "deployDate": "-",
+    "raisedDate": "06 Jun 2026, 10:18",
+    "raisedSrc": "via WhatsApp",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "wa_1780721287242.jpeg",
+        "url": "/uploads/production-issues/images/wa_1780721287242.jpeg"
+      },
+      {
+        "type": "image",
+        "name": "wa_1780721287882.jpeg",
+        "url": "/uploads/production-issues/images/wa_1780721287882.jpeg"
+      },
+      {
+        "type": "image",
+        "name": "wa_1780721514969.jpeg",
+        "url": "/uploads/production-issues/images/wa_1780721514969.jpeg"
+      }
+    ],
+    "history": [
+      {
+        "date": "06/06/2026, 10:18:08",
+        "action": "Issue created via WhatsApp message from \"Maha..😊\".",
+        "user": "System"
+      },
+      {
+        "date": "06/06/2026, 10:18:09",
+        "action": "Duplicate issue detected from WhatsApp. Message from \"Maha..😊\".",
+        "user": "System"
+      },
+      {
+        "field": "assignee",
+        "oldValue": "",
+        "newValue": "Ravi Kumar",
+        "timestamp": "2026-06-06T04:48:32.652Z",
+        "who": "Current User"
+      },
+      {
+        "date": "06/06/2026, 10:21:56",
+        "action": "Duplicate issue detected from WhatsApp. Message from Sravani R.",
+        "user": "System"
+      }
+    ],
+    "priority": "Medium",
+    "duplicateCount": 2,
+    "logs": []
+  },
+  {
+    "id": "PI-0005",
+    "pageName": "Payment",
+    "issue": "[OCR Text from Image]: > @  % shop.egfnexshop.a...\n\n[OCR Text from Image]: > @  % shop.egfnexshop.ai/evergreen/evergreenfarms/checkout-payment-preorder = OD\na o signin\nEyerdreen A Account\nCheckout - Preorder Order Summary\n© PICKUP ITEMS (1)\nPICKUP ESTIMATE RasaaluMango\nYour order will reach the selected pickup location 06/06/2026: 4:00 PM - 9:00 PM. = I $55.00\n3795 Drew Road, Cumming, GA, 30040, United States 3\nPickup Details\nPickup Subtotal (1 item) $55.00\nPickup Location  Appies oaitems Change SEER) pe.\n3785 Drew Road, Cumming, GA, 30040, United States\n08/06/2026: 400 PM - 800 PM\nTotal $55.00\nEmail Address * Phone Number\nPayment Method\nsridharkumark@gmail.com 41 + (s08) 313-8909\nO = credit/oebitcara\n© Insufficient preorder stock for Rasaalu Mango: 0 available © ® cash (Pay aplctup)\n© ¢ ele\nSeni $55.00 10 +1 (676) 505-0343 Compots payment ot east 24\nours foro pickup.\n‘Cashpending payment stock reduced. Umit 2 pe product",
+    "status": "Open",
+    "assignee": "",
+    "deployDate": "-",
+    "raisedDate": "06 Jun 2026, 10:18",
+    "raisedSrc": "via WhatsApp",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "wa_1780721286869.jpeg",
+        "url": "/uploads/production-issues/images/wa_1780721286869.jpeg"
+      }
+    ],
+    "history": [
+      {
+        "date": "06/06/2026, 10:18:08",
+        "action": "Issue created via WhatsApp message from \"Maha..😊\".",
+        "user": "System"
+      }
+    ],
+    "priority": "Medium",
+    "duplicateCount": 0,
+    "logs": []
+  },
+  {
+    "id": "PI-0004",
+    "pageName": "Login",
+    "issue": "[OCR Text from Image]: a) Hello, Sasikiran (Adm...\n\n[OCR Text from Image]: a) Hello, Sasikiran (Admin)\nergreen Last Login: 06/05/2026, 10:34 AM\nill Stats Overview\n—\nSales. ww Pending Sales (Inv\n2 $3,004.57 $7.99\npos =\nof Total Sales $3,120.567 Purchase Return\nnquiries $0.00\nPOS Sales $3,004.567\nistomers Graphical Sales Analytics\n? Enquiry Follow-up Stock Alerts Subscription Alerts",
+    "status": "Open",
+    "assignee": "",
+    "deployDate": "-",
+    "raisedDate": "06 Jun 2026, 10:18",
+    "raisedSrc": "via WhatsApp",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "wa_1780721287491.jpeg",
+        "url": "/uploads/production-issues/images/wa_1780721287491.jpeg"
+      }
+    ],
+    "history": [
+      {
+        "date": "06/06/2026, 10:18:08",
+        "action": "Issue created via WhatsApp message from \"Maha..😊\".",
+        "user": "System"
+      }
+    ],
+    "priority": "Medium",
+    "duplicateCount": 0,
+    "logs": []
+  },
+  {
+    "id": "PI-0003",
+    "pageName": "Customer",
+    "issue": "We sent this Invoice and customer didn't receiv...\n\nWe sent this Invoice and customer didn't receive CC Payment link, I have resend also same.. Please fix this one ASAP .. and send him CC link once you are UP \n[OCR Text from Image]: Q search By Customer Name 06-01-2026 06-30-2026 5 All - All AM [5]\nPayments S.No Customer Name Invoice Id Amount Payment Status. Created By/On History ACTIONS Comments\nTot $2,461.00 Sibimiont POF | | Resend\nv 1 Sharad 1.0061 Paid: $0.00 Awaiting [5] [==\nlp 06/05/2026 03:19 PM or",
+    "status": "Open",
+    "assignee": "",
+    "deployDate": "-",
+    "raisedDate": "06 Jun 2026, 10:18",
+    "raisedSrc": "via WhatsApp",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "wa_1780721286626.jpeg",
+        "url": "/uploads/production-issues/images/wa_1780721286626.jpeg"
+      }
+    ],
+    "history": [
+      {
+        "date": "06/06/2026, 10:18:07",
+        "action": "Issue created via WhatsApp message from \"Maha..😊\".",
+        "user": "System"
+      }
+    ],
+    "priority": "Medium",
+    "duplicateCount": 0,
+    "logs": []
+  },
+  {
+    "id": "PI-0002",
+    "pageName": "General",
+    "issue": "Need to alow purchase price .01 also \n[OCR Text...\n\nNeed to alow purchase price .01 also \n[OCR Text from Image]: Purchase Price ($) * Sale Price ($\nStock (Quantity) * Reorder Qua\n25.00 30\nFeature Product\nBarcode Label",
+    "status": "Open",
+    "assignee": "",
+    "deployDate": "-",
+    "raisedDate": "06 Jun 2026, 10:18",
+    "raisedSrc": "via WhatsApp",
+    "attachments": [
+      {
+        "type": "image",
+        "name": "wa_1780721286473.jpeg",
+        "url": "/uploads/production-issues/images/wa_1780721286473.jpeg"
+      }
+    ],
+    "history": [
+      {
+        "date": "06/06/2026, 10:18:07",
+        "action": "Issue created via WhatsApp message from \"Maha..😊\".",
+        "user": "System"
+      }
+    ],
+    "priority": "Medium",
+    "duplicateCount": 0,
+    "logs": []
+  },
+  {
+    "id": "PI-0001",
+    "pageName": "General",
+    "issue": "If apply weight products not in the item list p...\n\nIf apply weight products not in the item list printer is not working",
+    "status": "Open",
+    "assignee": "",
+    "deployDate": "-",
+    "raisedDate": "06 Jun 2026, 10:16",
+    "raisedSrc": "via WhatsApp",
+    "attachments": [],
+    "history": [
+      {
+        "date": "06/06/2026, 10:16:30",
+        "action": "Issue created via WhatsApp message from \"Maha..😊\".",
+        "user": "System"
+      }
+    ],
+    "priority": "High",
+    "duplicateCount": 0,
+    "logs": []
+  }
+]

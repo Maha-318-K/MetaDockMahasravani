@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "project": "Evergreen Farms",
+    "module": "POS",
+    "pageName": "Checkout",
+    "totalTestCases": "50",
+    "automatedCases": "20",
+    "status": "In Progress",
+    "lastUpdated": "04 Jul 2026"
+  },
+  {
+    "id": "2",
+    "project": "Evergreen Farms",
+    "module": "Payment",
+    "pageName": "Card Details",
+    "totalTestCases": 25,
+    "automatedCases": 25,
+    "status": "Completed",
+    "lastUpdated": "29 May 2025"
+  },
+  {
+    "id": "3",
+    "project": "Evergreen Farms",
+    "module": "Dashboard",
+    "pageName": "Home",
+    "totalTestCases": 60,
+    "automatedCases": 15,
+    "status": "In Progress",
+    "lastUpdated": "28 May 2025"
+  },
+  {
+    "id": "4",
+    "project": "Evergreen Farms",
+    "module": "Profile",
+    "pageName": "Edit Profile",
+    "totalTestCases": 30,
+    "automatedCases": 0,
+    "status": "Not Started",
+    "lastUpdated": "27 May 2025"
+  }
+]

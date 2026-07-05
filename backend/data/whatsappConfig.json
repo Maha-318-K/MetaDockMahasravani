@@ -1,0 +1,227 @@
+{
+  "monitoredGroups": [
+    "120363410488425380@g.us"
+  ],
+  "lastSyncTime": "2026-07-05T17:58:07.874Z",
+  "lastProcessedMessageTime": "2026-07-04T07:53:30.703Z",
+  "processedMessageIds": [
+    "true_120363410488425380@g.us_3EB098F0D58B15DC7719C1_275020463009984@lid",
+    "true_120363410488425380@g.us_3EB0E5AAD4887FEB9317FC_275020463009984@lid",
+    "true_120363410488425380@g.us_3EB08F53F7F2DC6EAE4D7E_275020463009984@lid",
+    "true_120363410488425380@g.us_AC95EEBD998B7C3BE201BA969C207CBC_275020463009984@lid",
+    "true_120363410488425380@g.us_3EB00034CD88CE61A9FE0C_275020463009984@lid",
+    "true_120363410488425380@g.us_3EB000FF9132F1CDA0EA68_275020463009984@lid",
+    "true_120363410488425380@g.us_3EB00095E858BA87745A5C_275020463009984@lid"
+  ],
+  "connectedDeviceId": "device_1783150616918",
+  "auditLogs": [
+    {
+      "date": "2026-06-06T19:03:46.689Z",
+      "action": "WhatsApp Connected. New Device ID: device_1780772626686",
+      "user": "System"
+    },
+    {
+      "date": "2026-06-06T19:06:30.407Z",
+      "action": "Issue Default Group configured to: 120363426766901654@g.us",
+      "user": "System"
+    },
+    {
+      "date": "2026-06-06T19:07:41.827Z",
+      "action": "Issue created and synced to group 120363426766901654@g.us: hai new issue found on logo change logo and when clcik on go...",
+      "user": "Current User"
+    },
+    {
+      "date": "2026-06-06T19:14:53.517Z",
+      "action": "Issue created and sent to group 120363426766901654@g.us: General",
+      "user": "Current User"
+    },
+    {
+      "date": "2026-06-06T19:17:01.615Z",
+      "action": "Issue created and sent to group 120363426766901654@g.us: General",
+      "user": "Current User"
+    },
+    {
+      "date": "2026-06-06T19:17:27.267Z",
+      "action": "Issue Default Group configured to: 120363428092815576@g.us",
+      "user": "System"
+    },
+    {
+      "date": "2026-06-06T19:17:43.793Z",
+      "action": "Issue created and sent to group 120363428092815576@g.us: General",
+      "user": "Current User"
+    },
+    {
+      "date": "2026-06-06T19:18:03.209Z",
+      "action": "Issue Default Group configured to: 120363426766901654@g.us",
+      "user": "System"
+    },
+    {
+      "date": "2026-06-06T19:18:11.832Z",
+      "action": "WhatsApp Disconnected manually",
+      "user": "System"
+    },
+    {
+      "date": "2026-06-06T19:41:04.373Z",
+      "action": "WhatsApp Connected. New Device ID: device_1780774864362",
+      "user": "System"
+    },
+    {
+      "date": "2026-06-06T19:42:01.598Z",
+      "action": "Document 'Sravani sister' sent to chat 120363425474618874@g.us",
+      "user": "Current User"
+    },
+    {
+      "date": "2026-06-07T02:32:22.946Z",
+      "action": "Document 'Sravani sister' sent to chat 120363425474618874@g.us",
+      "user": "Current User"
+    },
+    {
+      "date": "2026-06-07T06:25:56.763Z",
+      "action": "Issue Default Group configured to: 120363425474618874@g.us",
+      "user": "System"
+    },
+    {
+      "date": "2026-06-07T06:26:25.392Z",
+      "action": "Issue created and sent to group 120363425474618874@g.us: ssss",
+      "user": "Admin"
+    },
+    {
+      "date": "2026-06-13T11:59:46.375Z",
+      "action": "WhatsApp Disconnected manually",
+      "user": "System"
+    },
+    {
+      "date": "2026-07-04T06:24:47.506Z",
+      "action": "WhatsApp Connected. New Device ID: device_1783146287489",
+      "user": "System"
+    },
+    {
+      "date": "2026-07-04T06:25:08.376Z",
+      "action": "Issue Default Group configured to: 120363410488425380@g.us",
+      "user": "System"
+    },
+    {
+      "date": "2026-07-04T06:26:30.881Z",
+      "action": "Issue Default Group configured to: 120363410488425380@g.us",
+      "user": "System"
+    },
+    {
+      "date": "2026-07-04T06:27:36.956Z",
+      "action": "Issue created and sent to group 120363410488425380@g.us: General",
+      "user": "Admin"
+    },
+    {
+      "date": "2026-07-04T06:27:38.171Z",
+      "action": "Issue created and sent to group 120363410488425380@g.us: General",
+      "user": "Admin"
+    },
+    {
+      "date": "2026-07-04T06:27:38.417Z",
+      "action": "Issue created and sent to group 120363410488425380@g.us: General",
+      "user": "Admin"
+    },
+    {
+      "date": "2026-07-04T06:27:38.957Z",
+      "action": "Issue created and sent to group 120363410488425380@g.us: General",
+      "user": "Admin"
+    },
+    {
+      "date": "2026-07-04T06:27:40.334Z",
+      "action": "Issue created and sent to group 120363410488425380@g.us: Login Page",
+      "user": "Admin"
+    },
+    {
+      "date": "2026-07-04T06:27:40.462Z",
+      "action": "Issue created and sent to group 120363410488425380@g.us: Login Page",
+      "user": "Admin"
+    },
+    {
+      "date": "2026-07-04T06:33:58.983Z",
+      "action": "Issue created and sent to group 120363410488425380@g.us: General",
+      "user": "Admin"
+    },
+    {
+      "date": "2026-07-04T06:34:00.400Z",
+      "action": "Issue created and sent to group 120363410488425380@g.us: General",
+      "user": "Admin"
+    },
+    {
+      "date": "2026-07-04T06:34:01.897Z",
+      "action": "Issue created and sent to group 120363410488425380@g.us: General",
+      "user": "Admin"
+    },
+    {
+      "date": "2026-07-04T06:34:03.247Z",
+      "action": "Issue created and sent to group 120363410488425380@g.us: General",
+      "user": "Admin"
+    },
+    {
+      "date": "2026-07-04T06:37:43.808Z",
+      "action": "Issue created and sent to group 120363410488425380@g.us: Login Page",
+      "user": "Admin"
+    },
+    {
+      "date": "2026-07-04T06:37:52.713Z",
+      "action": "Issue created and sent to group 120363410488425380@g.us: Login",
+      "user": "Admin"
+    },
+    {
+      "date": "2026-07-04T06:53:52.872Z",
+      "action": "Document 'Test' sent to chat 120363410488425380@g.us",
+      "user": "Test"
+    },
+    {
+      "date": "2026-07-04T06:54:55.324Z",
+      "action": "Document 'report test' sent to chat 120363410488425380@g.us",
+      "user": "Admin"
+    },
+    {
+      "date": "2026-07-04T07:34:24.848Z",
+      "action": "WhatsApp Disconnected manually",
+      "user": "System"
+    },
+    {
+      "date": "2026-07-04T07:36:56.921Z",
+      "action": "WhatsApp Connected. New Device ID: device_1783150616918",
+      "user": "System"
+    },
+    {
+      "date": "2026-07-04T07:38:59.044Z",
+      "action": "Document 'report' sent to chat 120363410488425380@g.us",
+      "user": "Admin"
+    },
+    {
+      "date": "2026-07-04T07:41:07.381Z",
+      "action": "Document 'report' sent to chat 120363410488425380@g.us",
+      "user": "Admin"
+    },
+    {
+      "date": "2026-07-04T07:41:10.717Z",
+      "action": "Document 'report' sent to chat 120363410488425380@g.us",
+      "user": "Admin"
+    },
+    {
+      "date": "2026-07-04T07:45:17.477Z",
+      "action": "Document 'daily report' sent to chat 197925615489152@lid",
+      "user": "Admin"
+    },
+    {
+      "date": "2026-07-04T07:46:14.689Z",
+      "action": "Document 'Maha nanada sai production release document' sent to chat 120363410488425380@g.us",
+      "user": "Admin"
+    },
+    {
+      "date": "2026-07-04T07:49:43.649Z",
+      "action": "Document 'Maha nanada sai production release document' sent to chat 120363410488425380@g.us",
+      "user": "Admin"
+    },
+    {
+      "date": "2026-07-04T07:53:29.745Z",
+      "action": "Document 'Maha nanada sai production release document' sent to chat 120363410488425380@g.us",
+      "user": "Admin"
+    }
+  ],
+  "issueDefaultGroup": null,
+  "lastMessageSent": "2026-07-04T07:53:29.740Z",
+  "messagesSentCount": 25
+}

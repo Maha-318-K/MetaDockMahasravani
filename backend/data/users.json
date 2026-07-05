@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1780824701147,
+    "name": "Divya",
+    "empId": "EMP143",
+    "designation": "",
+    "role": "Employee",
+    "status": "Active",
+    "password": "Maha@123",
+    "avatar": "https://ui-avatars.com/api/?name=Divya&background=random"
+  },
+  {
+    "id": 1780808503415,
+    "name": "sravani",
+    "empId": "EMP123",
+    "designation": "Tester",
+    "role": "Admin",
+    "status": "Active",
+    "password": "Maha@123",
+    "avatar": "https://i.pravatar.cc/150?u=1780808503415"
+  },
+  {
+    "id": 1,
+    "name": "Admin",
+    "empId": "EMP0001",
+    "designation": "System Administrator",
+    "role": "Super Admin",
+    "status": "Active",
+    "password": "admin",
+    "avatar": "https://i.pravatar.cc/150?u=admin"
+  }
+]

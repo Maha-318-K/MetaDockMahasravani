@@ -1,0 +1,280 @@
+[
+  {
+    "id": "1783151161648",
+    "documentId": "DOC-1007",
+    "documentName": "Maha nanada sai production release document",
+    "documentType": "Client Update Report",
+    "createdBy": "Admin",
+    "createdDate": "04 Jul 2026",
+    "generatedDate": "04 Jul 2026, 13:16",
+    "status": "Generated",
+    "filters": {
+      "requirements": {
+        "selected": false,
+        "from": "",
+        "to": ""
+      },
+      "mom": {
+        "selected": false,
+        "from": "",
+        "to": ""
+      },
+      "qaIssues": {
+        "selected": true,
+        "from": "2026-07-04",
+        "to": "2026-07-18"
+      },
+      "prodIssues": {
+        "selected": true,
+        "from": "2026-07-01",
+        "to": "2026-07-04"
+      }
+    },
+    "history": [
+      {
+        "action": "Document Created",
+        "by": "Admin",
+        "date": "2026-07-04T07:46:01.649Z"
+      },
+      {
+        "action": "Sent to WhatsApp (Issues)",
+        "by": "Admin",
+        "date": "2026-07-04T07:46:14.698Z"
+      },
+      {
+        "action": "Sent to WhatsApp (Issues)",
+        "by": "Admin",
+        "date": "2026-07-04T07:49:43.666Z"
+      },
+      {
+        "action": "Sent to WhatsApp (Issues)",
+        "by": "Admin",
+        "date": "2026-07-04T07:53:29.755Z"
+      }
+    ]
+  },
+  {
+    "id": "1783151081267",
+    "documentId": "DOC-1006",
+    "documentName": "daily report",
+    "documentType": "Client Update Report",
+    "createdBy": "Admin",
+    "createdDate": "04 Jul 2026",
+    "generatedDate": "04 Jul 2026, 13:14",
+    "status": "Generated",
+    "filters": {
+      "requirements": {
+        "selected": false,
+        "from": "",
+        "to": ""
+      },
+      "mom": {
+        "selected": false,
+        "from": "",
+        "to": ""
+      },
+      "qaIssues": {
+        "selected": true,
+        "from": "2026-07-04",
+        "to": "2026-07-18"
+      },
+      "prodIssues": {
+        "selected": true,
+        "from": "2026-07-01",
+        "to": "2026-07-04"
+      }
+    },
+    "history": [
+      {
+        "action": "Document Created",
+        "by": "Admin",
+        "date": "2026-07-04T07:44:41.269Z"
+      },
+      {
+        "action": "Sent to WhatsApp (Sravani R)",
+        "by": "Admin",
+        "date": "2026-07-04T07:45:17.486Z"
+      }
+    ]
+  },
+  {
+    "id": "1783150773446",
+    "documentId": "DOC-1005",
+    "documentName": "report",
+    "documentType": "Project Status Report",
+    "createdBy": "Admin",
+    "createdDate": "04 Jul 2026",
+    "generatedDate": "04 Jul 2026, 13:09",
+    "status": "Generated",
+    "filters": {
+      "requirements": {
+        "selected": false,
+        "from": "",
+        "to": ""
+      },
+      "mom": {
+        "selected": false,
+        "from": "",
+        "to": ""
+      },
+      "qaIssues": {
+        "selected": false,
+        "from": "",
+        "to": ""
+      },
+      "prodIssues": {
+        "selected": true,
+        "from": "2026-07-01",
+        "to": "2026-07-04"
+      }
+    },
+    "history": [
+      {
+        "action": "Document Created",
+        "by": "Admin",
+        "date": "2026-07-04T07:39:33.447Z"
+      },
+      {
+        "action": "Sent to WhatsApp (Issues)",
+        "by": "Admin",
+        "date": "2026-07-04T07:41:07.389Z"
+      },
+      {
+        "action": "Sent to WhatsApp (Issues)",
+        "by": "Admin",
+        "date": "2026-07-04T07:41:24.983Z"
+      }
+    ]
+  },
+  {
+    "id": "1783150701937",
+    "documentId": "DOC-1004",
+    "documentName": "report",
+    "documentType": "Project Status Report",
+    "createdBy": "Admin",
+    "createdDate": "04 Jul 2026",
+    "generatedDate": "04 Jul 2026, 13:08",
+    "status": "Generated",
+    "filters": {
+      "requirements": {
+        "selected": false,
+        "from": "",
+        "to": ""
+      },
+      "mom": {
+        "selected": false,
+        "from": "",
+        "to": ""
+      },
+      "qaIssues": {
+        "selected": false,
+        "from": "",
+        "to": ""
+      },
+      "prodIssues": {
+        "selected": true,
+        "from": "2026-07-01",
+        "to": "2026-07-04"
+      }
+    },
+    "history": [
+      {
+        "action": "Document Created",
+        "by": "Admin",
+        "date": "2026-07-04T07:38:22.115Z"
+      },
+      {
+        "action": "Sent to WhatsApp (Issues)",
+        "by": "Admin",
+        "date": "2026-07-04T07:38:59.052Z"
+      }
+    ]
+  },
+  {
+    "id": "1783147777816",
+    "documentId": "DOC-1003",
+    "documentName": "report test",
+    "documentType": "Monthly Report",
+    "createdBy": "Admin",
+    "createdDate": "04 Jul 2026",
+    "generatedDate": "04 Jul 2026, 12:19",
+    "status": "Generated",
+    "filters": {
+      "requirements": {
+        "selected": true,
+        "from": "2026-07-01",
+        "to": "2026-07-04"
+      },
+      "mom": {
+        "selected": true,
+        "from": "2026-07-04",
+        "to": "2026-07-04"
+      },
+      "qaIssues": {
+        "selected": true,
+        "from": "2026-07-04",
+        "to": "2026-07-04"
+      },
+      "prodIssues": {
+        "selected": true,
+        "from": "2026-07-04",
+        "to": "2026-07-04"
+      }
+    },
+    "history": [
+      {
+        "action": "Document Created",
+        "by": "Admin",
+        "date": "2026-07-04T06:49:37.816Z"
+      },
+      {
+        "action": "Sent to WhatsApp (Issues)",
+        "by": "Admin",
+        "date": "2026-07-04T06:54:55.333Z"
+      }
+    ]
+  },
+  {
+    "id": "1780774409097",
+    "documentId": "DOC-1002",
+    "documentName": "Sravani sister",
+    "documentType": "Production Release Report",
+    "createdBy": "Current User",
+    "createdDate": "07 Jun 2026",
+    "generatedDate": "07 Jun 2026, 01:03",
+    "status": "Generated",
+    "filters": {
+      "requirements": {
+        "selected": true,
+        "from": "2026-06-01",
+        "to": "2026-06-30"
+      },
+      "mom": {
+        "selected": true,
+        "from": "2026-06-01",
+        "to": "2026-06-30"
+      },
+      "qaIssues": {
+        "selected": true,
+        "from": "2026-06-01",
+        "to": "2026-06-30"
+      },
+      "prodIssues": {
+        "selected": true,
+        "from": "2026-06-01",
+        "to": "2026-06-30"
+      }
+    }
+  },
+  {
+    "id": "1",
+    "documentId": "DOC-1001",
+    "documentName": "May Executive Summary",
+    "documentType": "Monthly Report",
+    "createdBy": "Mohananda",
+    "createdDate": "01 Jun 2025",
+    "generatedDate": "01 Jun 2025 10:00 AM",
+    "status": "Generated",
+    "filters": {}
+  }
+]
