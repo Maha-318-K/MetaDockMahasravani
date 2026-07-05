@@ -205,7 +205,7 @@ const CreateUser = () => {
           navigate('/users');
         }, 3000);
       } else {
-        alert('Failed to create user. Please try again.');
+        alert(data.error || 'Failed to create user. Please try again.');
       }
     } catch (error) {
       alert('An error occurred. Please try again.');
